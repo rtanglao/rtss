@@ -6,7 +6,7 @@
 import sys, codecs, locale;
 sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout);
 # END KLUDGE
-# usage: ./s-sumo-kb-1-day.py 2014 01 07
+# usage: ./s-sumo-kb-1-day.py 2014 01 06 2014 01 07
 
 from bs4 import BeautifulSoup
 import bs4
