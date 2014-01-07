@@ -15,21 +15,31 @@ import time
 import sys
 from datetime import datetime
 import dateutil.parser
-yy = sys.argv[1]
-mm = sys.argv[2]
-dd = sys.argv[3]
+import pytz
+utc=pytz.UTC
+
+start_yy = sys.argv[1]
+start_mm = sys.argv[2]
+start_dd = sys.argv[3]
+end_yy = sys.argv[4]
+end_mm = sys.argv[5]
+end_dd = sys.argv[6]
+
 
 page = -1
 #url_str = "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date=01%2F07%2F2014&updated=0&updated_date=&sortby=2&a=1&w=2"
-search_url_str = "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date="+ mm + "%2F" + dd + "%2F" + yy + "&updated=0&updated_date=&sortby=2&a=1&w=2"
+search_end_url_str = "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date="+ end_mm + "%2F" + end_dd + "%2F" + end_yy + "&updated=0&updated_date=&sortby=2&a=1&w=2"
 
-print >> sys.stderr, "url of search:", search_url_str
+print >> sys.stderr, "url of search:", search_end_url_str
+start = dateutil.parser.parse(start_yy+"/" + start_mm + "/" + start_dd)
+utc.localize(start)
+print >> sys.stderr, "START:", start
 while True:
   page += 1
   if page != 0:
-    search_url_str = search_url_str + "&page=" + str(page)
+    search_end_url_str = search_end_url_str + "&page=" + str(page)
 
-  response = urllib2.urlopen(search_url_str)
+  response = urllib2.urlopen(search_end_url_str)
   html_search_page = response.read()
   soup = BeautifulSoup(html_search_page)
   all_h3 = soup.find_all('h3')
@@ -55,9 +65,12 @@ while True:
         time_str = s2.find_all('time')[0]['datetime']
         print >> sys.stderr, "time_str:", time_str
         t2 = dateutil.parser.parse(time_str) 
+        print >> sys.stderr, "T2:", t2
         date = t2.strftime("%a %b %d %Y %I:%m %p")
         print >> sys.stderr, 'first75:', first_75, 'title[0]:', title[0]
         print '1. **%s** [%s](%s "%s")' % (date, title[0], url, first_75)
+        if t2 < start:
+          break
       except:
         pass
   break
