@@ -95,6 +95,7 @@ def get_support_questions():
             print '1. **%s** [%s](%s "%s")' % (date, title[0], url, first_75)
         except Exception:
           print formatExceptionInfo()
+          pass
         except:
           print >> sys.stderr, "EXCEPTION"
           pass
