@@ -16,6 +16,19 @@ import sys
 from datetime import datetime
 import dateutil.parser
 import pytz
+import traceback
+import re
+
+def formatExceptionInfo(maxTBlevel=5):
+  cla, exc, trbk = sys.exc_info()
+  excName = cla.__name__
+  try:
+    excArgs = exc.__dict__["args"]
+  except KeyError:
+    excArgs = "<no args>"
+  excTb = traceback.format_tb(trbk, maxTBlevel)
+  return (excName, excArgs, excTb)
+
 utc=pytz.UTC
 
 start_yy = sys.argv[1]
@@ -25,10 +38,11 @@ end_yy = sys.argv[4]
 end_mm = sys.argv[5]
 end_dd = sys.argv[6]
 
+search_end_url_str = "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date="+ end_mm + "%2F" + end_dd + "%2F" + end_yy + "&updated=0&updated_date=&sortby=2&a=1&w=2"
+
 def get_support_questions():
   page = -1
-  search_end_url_str = "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date="+ end_mm + "%2F" + end_dd + "%2F" + end_yy + "&updated=0&updated_date=&sortby=2&a=1&w=2"
-
+  
   print >> sys.stderr, "url of search:", search_end_url_str
   start = dateutil.parser.parse(start_yy+"/" + start_mm + "/" + start_dd)
   start = utc.localize(start)
@@ -36,8 +50,11 @@ def get_support_questions():
   while True:
     page += 1
     if page != 0:
-      search_end_url_str = search_end_url_str + "&page=" + str(page)
+      search_str = search_end_url_str + "&page=" + str(page)
+    else:
+      search_str = search_end_url_str 
 
+    print >> sys.stderr, "calling URLOPEN on:", search_end_url_str
     response = urllib2.urlopen(search_end_url_str)
     html_search_page = response.read()
     soup = BeautifulSoup(html_search_page)
@@ -48,8 +65,12 @@ def get_support_questions():
         title = l.contents
         try:
           url = "https://support.mozilla.org/en-US" + rel_link
-          print >> sys.stderr, 'url of question:', url
+          print >> sys.stderr, "PAGE_URL:", url
+          m = re.search('(?<=questions\/)\w+', url)
+          id = m.group(0)
+          print >> sys.stderr, 'url of QUESTION:', url, ' id:', id
           response = urllib2.urlopen(url)
+          print >> sys.stderr, "READ URL of QUESTION"
           html = response.read()
           s2 = BeautifulSoup(html)
           main_content  = s2.findAll("div", { "class" : "main-content" })
@@ -72,7 +93,10 @@ def get_support_questions():
             date = t2.strftime("%a %b %d %Y %I:%m %p")
             print >> sys.stderr, 'first75:', first_75, 'title[0]:', title[0]
             print '1. **%s** [%s](%s "%s")' % (date, title[0], url, first_75)
+        except Exception:
+          print formatExceptionInfo()
         except:
+          print >> sys.stderr, "EXCEPTION"
           pass
 
 get_support_questions()
