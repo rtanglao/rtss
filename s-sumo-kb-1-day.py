@@ -73,7 +73,7 @@ def scrape_support_questions():
           id = m.group(0)
           print >> sys.stderr, 'url of QUESTION:', url, ' id:', id
           response = urllib2.urlopen(url)
-          print >> sys.stderr, "READ URL of QUESTION"
+          print >> sys.stderr, "HTTP GET url of QUESTION"
           html = response.read()
           s2 = BeautifulSoup(html)
           main_content  = s2.findAll("div", { "class" : "main-content" })
@@ -84,7 +84,7 @@ def scrape_support_questions():
               first_p = main_content[0].p.contents[0].contents[0].rstrip()
             else:
               first_p  = main_content[0].p.contents[0].contents.rstrip()
-          first_75 = first_p[:75] + (first_p[75:] and u'..')
+          first_75 = first_p[:75] + (first_p[75:] and u'...')
           time_str = s2.find_all('time')[0]['datetime']
           print >> sys.stderr, "time_str:", time_str
           t2 = dateutil.parser.parse(time_str) 
