@@ -18,6 +18,10 @@ import dateutil.parser
 import pytz
 import traceback
 import re
+import os
+
+mongo_pw = os.environ.get('MONGO_PW')
+print >> sys.stderr, "MONGO_PW:", mongo_pw
 
 def formatExceptionInfo(maxTBlevel=5):
   cla, exc, trbk = sys.exc_info()
