@@ -41,6 +41,12 @@ end_dd = sys.argv[6]
 search_end_url_str = "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date="+ end_mm + "%2F" + end_dd + "%2F" + end_yy + "&updated=0&updated_date=&sortby=2&a=1&w=2"
 
 def insert_question(url, title, id, first_p):
+  try:
+    id_int = int(id)
+  except:
+    print >> sys.stderr, "NON INTEGER id:", id
+    return
+
   return
 
 def scrape_support_questions():
