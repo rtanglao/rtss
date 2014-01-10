@@ -40,7 +40,10 @@ end_dd = sys.argv[6]
 
 search_end_url_str = "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date="+ end_mm + "%2F" + end_dd + "%2F" + end_yy + "&updated=0&updated_date=&sortby=2&a=1&w=2"
 
-def get_support_questions():
+def insert_question(url, title, id, first_p):
+  return
+
+def scrape_support_questions():
   page = -1
   
   print >> sys.stderr, "url of search:", search_end_url_str
@@ -92,7 +95,8 @@ def get_support_questions():
           else:
             date = t2.strftime("%a %b %d %Y %I:%m %p")
             print >> sys.stderr, 'first75:', first_75, 'title[0]:', title[0]
-            print '1. **%s** [%s](%s "%s")' % (date, title[0], url, first_75)
+            # print '1. **%s** [%s](%s "%s")' % (date, title[0], url, first_75)
+            insert_question(url, title, id, first_p)
         except Exception:
           print formatExceptionInfo()
           pass
@@ -100,5 +104,5 @@ def get_support_questions():
           print >> sys.stderr, "EXCEPTION"
           pass
 
-get_support_questions()
+scrape_support_questions()
 
