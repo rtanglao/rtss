@@ -19,9 +19,23 @@ import pytz
 import traceback
 import re
 import os
+from pymongo import MongoClient
 
-mongo_pw = os.environ.get('MONGO_PW')
-print >> sys.stderr, "MONGO_PW:", mongo_pw
+mongo_pw = os.environ.get('MONGO_PASSWORD')
+print >> sys.stderr, "MONGO_PASSWORD:", mongo_pw
+mongo_user = os.environ.get('MONGO_USER')
+print >> sys.stderr, "MONGO_USER:", mongo_user
+mongo_port = os.environ.get('MONGO_PORT')
+print >> sys.stderr, "MONGO_PORT:", mongo_port
+mongo_host = os.environ.get('MONGO_HOST')
+print >> sys.stderr, "MONGO_HOST:", mongo_host
+
+if mongo_host == None:
+  client = MongoClient()
+else:
+  client = MongoClient(mongo_host, int(mongo_port))
+
+# auth = db.authenticate(MONGO_USER, MONGO_PASSWORD)
 
 def formatExceptionInfo(maxTBlevel=5):
   cla, exc, trbk = sys.exc_info()
