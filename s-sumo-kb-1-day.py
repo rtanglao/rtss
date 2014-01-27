@@ -30,12 +30,18 @@ print >> sys.stderr, "MONGO_PORT:", mongo_port
 mongo_host = os.environ.get('MONGO_HOST')
 print >> sys.stderr, "MONGO_HOST:", mongo_host
 
-if mongo_host == None:
+if mongo_host is None:
   client = MongoClient()
 else:
   client = MongoClient(mongo_host, int(mongo_port))
 
-# auth = db.authenticate(MONGO_USER, MONGO_PASSWORD)
+feedback_db = client['feedback']
+
+if mongo_user is not None:
+  client.feedback_db.authenticate(mongo_user, mongo_password)
+
+feedback_collection = feedback_db['feedback-collection']
+
 
 def formatExceptionInfo(maxTBlevel=5):
   cla, exc, trbk = sys.exc_info()
@@ -64,6 +70,15 @@ def insert_question(url, title, id, first_p):
   except:
     print >> sys.stderr, "NON INTEGER id:", id
     return
+  
+  question = {}
+  question['tags'] = []
+  question['title'] = title
+  question['id'] = id
+  question['type'] = 'question'
+  question['first_p'] = first_p
+
+  feedback_collection.insert(question)
 
   return
 
