@@ -64,7 +64,7 @@ end_dd = sys.argv[6]
 
 search_end_url_str = "https://support.mozilla.org/en-US/search?q=&num_voted=0&num_votes=&asked_by=&answered_by=&q_tags=&product=mobile&created=1&created_date="+ end_mm + "%2F" + end_dd + "%2F" + end_yy + "&updated=0&updated_date=&sortby=2&a=1&w=2"
 
-def insert_question(url, title, id, first_p):
+def insert_question(url, title, id, first_p, created_at):
   print >> sys.stderr, "INSERTING question"
 
   try:
@@ -76,9 +76,12 @@ def insert_question(url, title, id, first_p):
   question = {}
   question['tags'] = []
   question['title'] = title
-  question['id'] = id
+  question['id'] = id_int
   question['type'] = 'question'
   question['first_p'] = first_p
+  question['created_at'] = created_at
+
+  #existing_question =  feedback_collection.find_one({"id" : id_int})
 
   feedback_collection.insert(question)
 
@@ -137,7 +140,7 @@ def scrape_support_questions():
             date = t2.strftime("%a %b %d %Y %I:%m %p")
             print >> sys.stderr, 'first75:', first_75, 'title[0]:', title[0]
             # print '1. **%s** [%s](%s "%s")' % (date, title[0], url, first_75)
-            insert_question(url, title, id, first_p)
+            insert_question(url, title, id, first_p, t2)
         except Exception:
           print formatExceptionInfo()
           pass
