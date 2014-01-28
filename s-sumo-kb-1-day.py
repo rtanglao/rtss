@@ -75,6 +75,7 @@ def insert_question(url, title, id, first_p, created_at):
   
   question = {}
   question['tags'] = []
+  question['url'] = url
   question['title'] = title
   question['id'] = id_int
   question['type'] = 'question'
