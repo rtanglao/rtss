@@ -144,8 +144,9 @@ def scrape_support_questions():
           else:
             date = t2.strftime("%a %b %d %Y %I:%m %p")
             print >> sys.stderr, 'first75:', first_75, 'title[0]:', title[0]
-            # print '1. **%s** [%s](%s "%s")' % (date, title[0], url, first_75)
-            insert_question(url, title, id, first_p, t2)
+            m  = re.search('([^?]*)', url)
+            non_crufty_url = m.group(0) 
+            insert_question(non_crufty_url, title, id, first_p, t2)
         except Exception:
           print formatExceptionInfo()
           pass
