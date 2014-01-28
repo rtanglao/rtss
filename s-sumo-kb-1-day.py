@@ -81,9 +81,13 @@ def insert_question(url, title, id, first_p, created_at):
   question['first_p'] = first_p
   question['created_at'] = created_at
 
-  #existing_question =  feedback_collection.find_one({"id" : id_int})
-
-  feedback_collection.insert(question)
+  existing_question =  feedback_collection.find_one({"id" : id_int})
+  if existing_question:
+    print >> sys.stderr, "EXISTING QUESTION id:", id_int
+    feedback_collection.update({"id":id_int}, question)
+    print >> sys.stderr, "UPDATED QUESTION id:", id_int
+  else:
+    feedback_collection.insert(question)
 
   return
 
