@@ -93,7 +93,7 @@ def insert_question(url, title, id, first_p, created_at):
 
   return
 
-def scrape_support_questions():
+def scrape_support_questions(search_end_url_str):
   page = -1
   
   print >> sys.stderr, "url of search:", search_end_url_str
@@ -103,9 +103,9 @@ def scrape_support_questions():
   while True:
     page += 1
     if page != 0:
-      search_str = search_end_url_str + "&page=" + str(page)
+      search_end_url_str = search_end_url_str + "&page=" + str(page)
     else:
-      search_str = search_end_url_str 
+      search_end_url_str = search_end_url_str 
 
     print >> sys.stderr, "calling URLOPEN on:", search_end_url_str
     response = urllib2.urlopen(search_end_url_str)
@@ -155,5 +155,5 @@ def scrape_support_questions():
           print >> sys.stderr, "EXCEPTION"
           pass
 
-scrape_support_questions()
+scrape_support_questions(search_end_url_str)
 
