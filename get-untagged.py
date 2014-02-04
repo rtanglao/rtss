@@ -64,6 +64,7 @@ def find_untagged_questions(start_date, end_date):
                      "$lte": end_date}},\
                  {"type": "question"},\
                  {"tags": []}]}):
+    print question["id"]
     webbrowser.open_new_tab(question["url"])
 
   return
