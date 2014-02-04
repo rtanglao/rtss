@@ -58,13 +58,20 @@ def formatExceptionInfo(maxTBlevel=5):
 def tagit(id, tags):
   print >> sys.stderr, "in TAGIT, id:",\
     id, " tags:", tags
-
+  existing_question =  feedback_collection.find_one({"id" : id})
+  if existing_question:
+    print >> sys.stderr, "EXISTING QUESTION id:", id
+    existing_question["tags"] = tags
+    feedback_collection.update({"id":id}, existing_question)
+    print >> sys.stderr, "UPDATED QUESTION id:", id
+  else:
+    print >> sys.stderr, "UNKNOWN QUESTION id:", id
   return
 
-
-i=0
 for line in sys.stdin:
-  print i, line
-  i += 1
-#tagit(id, tags)
+  print >> sys.stderr, "id and tags:", line
+  line = line.lower().split()
+  id = int(line[0])
+  tags = line[1:]
+  tagit(id, tags)
 
