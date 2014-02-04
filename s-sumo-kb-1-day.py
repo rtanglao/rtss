@@ -140,7 +140,7 @@ def scrape_support_questions(search_end_url_str):
           t2 = dateutil.parser.parse(time_str) 
           print >> sys.stderr, "T2:", t2
           if (t2 < start):
-            print >> sys.stderr, "EXITING because current time is less than start time88"
+            print >> sys.stderr, "EXITING because current time is less than start time"
             return
           else:
             date = t2.strftime("%a %b %d %Y %I:%m %p")
