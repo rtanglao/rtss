@@ -66,7 +66,7 @@ start_date = utc.localize(start)
 
 end  = dateutil.parser.parse(end_yy + "/" + end_mm + "/" + end_dd + " 23:59:59") 
 end_date = utc.localize(end)
-
-print "#Summary"
+print "#SUMO Forum Support Report  %s/%s/%s-%s/%s/%s" %(start_yy, start_mm, start_dd, end_yy, end_mm, end_dd)
+print "##Tag Summary"
 get_top_tags(start_date, end_date)
 
