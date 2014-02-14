@@ -1,5 +1,9 @@
 #!/usr/local/bin/python
 # coding: utf-8
+# BEGIN kludge from http://stackoverflow.com/questions/5109970/linux-python-encoding-a-unicode-string-for-print and https://wiki.python.org/moin/PrintFails
+import sys, codecs, locale;
+sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout);
+# END KLUDGE
 import time
 import sys
 from datetime import datetime
@@ -58,7 +62,16 @@ def get_details(start_date, end_date):
                      "$lte": end_date}},\
                  ]}).sort("created_at", 1):
     created_at = question["created_at"]
-    print "1. **%s**" % (created_at.strftime("%a %b %d %Y %I:%m %p"))
+    tags_str = ", ".join(question["tags"])
+    #print >> sys.stderr, "title", question['title']
+  
+    print '1. **%s** [%s](%s "%s"), %s' % \
+      (created_at.strftime("%a %b %d %Y %I:%m %p"),\
+       question["title"][0],\
+       question["url"],\
+       question["first_p"],\
+       tags_str
+     )
 utc=pytz.UTC
 
 start_yy = sys.argv[1]
@@ -76,5 +89,5 @@ end_date = utc.localize(end)
 print "#SUMO Forum Support Report  %s/%s/%s-%s/%s/%s" %(start_yy, start_mm, start_dd, end_yy, end_mm, end_dd)
 print "##Tag Summary"
 get_top_tags(start_date, end_date)
-print "##Details"
+print "\n##Details"
 get_details(start_date, end_date)
