@@ -52,6 +52,13 @@ def get_top_tags(start_date, end_date):
   for tuple in sorted_array_of_tuples[:10]:
     print "1. %s:%d" % (tuple[0], tuple[1])
 
+def get_details(start_date, end_date):
+  for question in feedback_collection.find(\
+    { "$and" : [ {"created_at": {"$gte": start_date,\
+                     "$lte": end_date}},\
+                 ]}).sort("created_at", 1):
+    created_at = question["created_at"]
+    print "1. **%s**" % (created_at.strftime("%a %b %d %Y %I:%m %p"))
 utc=pytz.UTC
 
 start_yy = sys.argv[1]
@@ -69,4 +76,5 @@ end_date = utc.localize(end)
 print "#SUMO Forum Support Report  %s/%s/%s-%s/%s/%s" %(start_yy, start_mm, start_dd, end_yy, end_mm, end_dd)
 print "##Tag Summary"
 get_top_tags(start_date, end_date)
-
+print "##Details"
+get_details(start_date, end_date)
