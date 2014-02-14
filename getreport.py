@@ -72,6 +72,14 @@ def get_details(start_date, end_date):
        question["first_p"],\
        tags_str
      )
+def get_verbatims(start_date, end_date):
+  for question in feedback_collection.find(\
+    { "$and" : [ {"created_at": {"$gte": start_date,\
+                     "$lte": end_date}},\
+                 ]}).sort("created_at", 1):
+    if "verbatim" in question:
+      print "1. [%s](%s)" % (question["verbatim"], question["url"])
+
 utc=pytz.UTC
 
 start_yy = sys.argv[1]
@@ -89,5 +97,9 @@ end_date = utc.localize(end)
 print "#SUMO Forum Support Report  %s/%s/%s-%s/%s/%s" %(start_yy, start_mm, start_dd, end_yy, end_mm, end_dd)
 print "##Tag Summary"
 get_top_tags(start_date, end_date)
+print "\n##Verbatims"
+get_verbatims(start_date, end_date)
 print "\n##Details"
 get_details(start_date, end_date)
+
+
