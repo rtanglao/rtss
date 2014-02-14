@@ -1,0 +1,52 @@
+982525 webcompat thedailybanter.com
+982524 blackberry devicecompat
+982523 slow nexus10 keyboard bluetoothkeyboard
+982496 ux cleardata clearprivatedata privatedata privacy
+982470 iphone iphone5s devicecompat
+982467 dupe
+982466 flashvideodownloader flash download downloadvideo video
+982463 youtube video slow slowvideo
+982436 detailsmissing
+982430 ads blockads
+982421 history deletehistory
+982398 sync syncsetup ux
+982397 ux menu menulocation menuappearance tab72
+982374 download
+982351 login password formautofill webcompat
+982321 backgroundcolour
+982296 parentalcontrols kinderfox
+982290 abouthome ux abouthomeux
+982282 slow galaxys3
+982265 offtopic
+982253 webcompat requestdesktopversion
+982250 webcompat my.yahoo.com
+982231 webcompat goblinsforum.com
+982218 search ux searchux
+982212 customhomepage ux
+982203 scam
+982189 masterpassword
+982179 cantdeletetopsites topsites 
+982166 detailsmissing
+982164 quit
+982163 video fullscreenvideo galaxys4mini
+982160 video tv.com nbc
+982147 developerquestion js
+982137 phonesupport detailsmissing
+982134 cleardata howto ux
+982129 cookies privacy
+982126 webcompat dressupwho playping
+982125 offtopic thunderbird thunderbirdforandroid
+982108 history deletehistory
+982107 copyandpaste textselection longtap
+982101 download
+982091 sync syncasbackup backup
+982061 abuse
+982050 offtopic puk
+982038 flashfox notafirefoxproblem flashfoxproblem
+982020 bluhell firewall addon addonproblem
+982019 sync tabs tabsfromotherdevices
+982003 devicecompat unsupported nokia3120c
+981989 offtopic
+981975 history deletehistory
+981967 offtopic
+981796 java
