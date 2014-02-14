@@ -1,0 +1,60 @@
+981354 export exportbookmarks
+981291 dupe
+981289 ifamebook nomobileaddon
+981259 history deletehistory ux
+981240 zoom doubletaptozoom pinch pinchtozoom
+981234 bookmarks bookmarksfolders import
+981219 androidquestion notafirefoxproblem
+981214 sync multipledevices multipleaccounts
+981205 detailsmissing
+981199 install
+981184 galaxynote3 crash knox notafirefoxproblem
+981167 bookmarks ux
+981050 bookmarks boomarksfolders
+981137 dupe
+981136 detailsmissing hindi
+981135 update history dataloss
+981134 webrtc codec h264 vp8
+981129 abouthome homepage ux
+981118 sync syncsetup ux
+981084 video download mp4 flash 
+981096 galaxyace detailsmissing webcompat
+981090 addon ux
+981088 addon ux
+981083 detailsmissing startpage homepage
+981075 readinglist invisblereadinglist
+981058 history deletehistory ux
+981038 galaxynote3 usemaximumscreenresolution phablet
+981024 cantdeletetopsites topsites homepage
+980985 video download addon flashvideodownloader notafirefoxproblem
+980994 topsites ux unpin
+980970 download
+980964 sync ux
+980933 login webcompat
+980925 crash gingerbread
+980894 firefoxtv tv
+980893 spam offtopic
+980892 offtopic
+980891 video youtube
+980780 detailsmissing
+980879 icon kindlefire kindlefirehdx89
+980868 dupe
+980867 dns webcompat
+980862 developerquestion build
+980859 webcompat photos
+980850 betatorelease
+980849 dupe
+980822 startup
+980804 printing
+980796 video download
+980785 downloadfolder
+980772 popup possibleaddonissue
+980779 guestmode erasingformdata
+980777 burmese ZawGyi
+980770 bookmarks sync	
+980752 topsites ux abouthome
+980689 webcompat tablet requestdesktopsite
+980687 sync ux recoverykey
+980680 windowsphone8 unsupportedplatform
+980666 silverlight plugin
+980661 login hathaway webcompat
