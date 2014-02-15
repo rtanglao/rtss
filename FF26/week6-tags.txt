@@ -1,0 +1,67 @@
+983924 hisensetablet mymathlab webcompat detailsmissing
+983921 dupe
+983914 sync synccomputertocomputer
+983906 flash bug921670 fixed27
+983893 offtopic
+983892 dupe
+983894 detailsmissing
+983882 search pdf searchengine detailsmissing
+983875 cookies enablecookies privacy linkedin
+983853 detailsmissing
+983844 bookmarks possibleaddonissue
+983834 galaxys4 install nongoogleplayinstall
+983829 mediahint addon desktoponlyaddon
+983807 iphone iphone4s devicecompat
+983803 lightbeam addon desktoponlyaddon
+983786 galaxys4 download downloadimages
+983780 bookmarks import
+983778 offtopic
+983774 windowsphone8 devicecompat
+983770 galaxynote3 webcompat mixlr.com  www.moi.gov.s
+983761 notafirefoxproblem
+983719 searchengine deletesearchengine
+983710 firefoxosquestion
+982959 plugin detailsmissin
+983706 galaxymega metropcs carrierissue notafirefoxproblem
+983704 developerquestion
+983703 dupe
+983695 offtopic
+983694 tabs detailsmissing
+983691 offtopic
+983690 tab tabreload addon
+983672 nexus10 flash kitkat
+983564 detailsmissing
+983662 googledocs webcompat gingerbread
+983659 sync syncsetup ux detailsmissing
+983654 dupe
+983651 desktopquestion
+983618 video detailsmissing
+983593 tabs restoretabs
+983567 uslc.search-help.net virus malware
+983557 crash blulifeplay
+983555 flash flashgames
+983544 galaxytab37.0 ux menu menulocation menuappearance
+983542 video download tablet
+983530 sync
+983528 abouthome
+983513 ux abouthome
+983503 download
+983482 desktopproblem
+983462 yoga8 bookmarksbroken historybroken
+983459 download
+983447 upgrade upgradewithoutgoogleplay
+983428 offtopic
+983425 offtopic
+983400 offtopic email
+983363 facebook webcompat
+983335 offtopic gmail
+983329 HPslate72800 devicecompat
+983310 detailsmising dataloss bookmarks
+983289 sync ux deletesyncaccount
+983278 history deletehistory ux
+983277 privatedata clearprivatedata privacy ux verbatim dontkeepactivities
+983265 offtopic iphone 
+983247 gingerbread crash
+983238 cookies enablecookies netflix
+983233 deletedownloads download
+983046 notafirefoxproblem flashfox flashfoxpro flash
