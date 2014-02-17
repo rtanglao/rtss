@@ -1,0 +1,51 @@
+985206 history deletehistory ux
+985177 images openimages addon
+985172 export bookmarks
+985168 devicecompat
+985159 swipe gesture notafirefoxproblem
+985154 recoverykey sync
+985113 galaxys2 closetabs tabs detailsmissing
+985128 nexus7 flash flashvideo video detailsmissing 
+985120 detailsmissing
+985112 bogusfirefoxdownloadsite bogusfirefoxdownload download
+985099 bookmarks galaxynote2 sync syncasbackup devicetodevicesync
+985090 video videostreaming
+985069 detaismissing facebook
+985067 automaticallyclearhistory history deletehistory
+985060 email offtopic
+985025 avast antivirus nexus7 nexus72012 crash
+985019 detailsmissing apps
+984850 history deletehistory ux
+985013 sync syncsetup ux
+984993 persona uk uklocaleforpersona
+984987 detailsmissing
+984975 windowsphone8 devicecompat
+984974 ux exit
+984969 nexus7 wrongtabloaded tabs oldcontentintab
+984645 whyfirefox
+984919 dupe
+984918 notafirefoxproblem addonproblem search keyword.enabled
+984865 install nongoogleplayinstall kindlefire kindlefirehd
+984861 ux closewindow
+984833 nexus7 crash detailsmissing
+984829 latestversion
+984822 lgoptimus blocksites blockfacebook facebook
+984819 htcexplorer install devicecompat
+984813 offtopic
+984811 flash video sound videocodec videosound
+984804 detailsmissin
+984803 firefoxosquestion
+984789 video download flashvideodownloader
+984773 detailsmissing webcompat
+984761 sync syncsetup devicetodevicesync galaxys4 galaxys3
+984750 perf slow startup slowstartup
+984745 permissions
+984728 kindlefirehd unsupporteddevice video
+984695 secondscreen
+984689 desktopquestion colorultabs
+984671 sync recoverykey
+984650 js scripthang detailsmissing
+984619 install
+984607 topsites deletetopsites topsites abouthome
+984590 cookies detailsmissing
+984586 sumo sumocontributoremail
