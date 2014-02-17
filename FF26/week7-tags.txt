@@ -1,0 +1,45 @@
+984575 download downloadimage downloadaudio
+984552 offtopic
+984536 detailsmissing
+984449 gt7562 galaxysduos devicecompat
+984455 dupe
+984454 htconex defaultbrowser notafirefoxproblem androidsettings
+984448 comodosearch comodo addonproblem
+984427 offtopic
+984426 bookmarks import importbookmarks galaxys4
+984422 encoding characterencoding Thaiwindows874 windows1252 thai thaiencoding
+984416 fullscreen fullscreenvideo video nexus5
+984386 aurora droid4 update
+984363 dupe
+984362 detailsmissing
+984327 youtube openyoutube vimeo openvimeo webcompat
+984303 blockexplicitsearchresults addon blocksites
+984289 scrolling knownbug scrollingwithembeddedvideo
+984285 video videocodec
+984280 dupe
+984278 p12 certificates security
+984273 offtopic
+984272 privatedata clearprivatedata privacy clearhistory history
+984260 offtopic
+984257 deletebookmarks bookmarks ux
+984249 login detailsmissing
+984231 ux backbutton addon forwardbutton
+984200 history deletehistory ux
+984185 copypaste copyfromhistory ux
+984176 history deletehistory ux
+984172 deletetopsites topsites abouthome privacy verbatim
+984096 googleplus gmail login
+984085 galaxys4 install nongoogleplayinstall
+984067 windowsphone8 devicecompat
+984063 virginmobile offtopic
+984056 bookmarks ux history
+984046 desktopquestion
+984042 offtopic
+984032 blockexplicitsearchresults addon blocksites
+984028 offtopic
+984025 requestdesktopsite webcompat addon desktopbydefault
+984012 webcompat
+983976 offtopic
+983967 offtopic email
+983941 bookmarks bookmarksfolders ux sync
+983933 ux backbutton addon forwardbutton refreshbutton favoritesbutton verbatim
