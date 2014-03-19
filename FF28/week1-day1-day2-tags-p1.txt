@@ -1,4 +1,4 @@
-990709
+990709 detailsmissing addon addonproblem addonupgrade
 990669 dns notafirefoxproblem
 990663 addon desktopquesion
 990666 webcompat desktopquestion 
