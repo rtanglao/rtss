@@ -12,6 +12,7 @@
 1. xperiat:1
 
 ##Verbatims
+1. [on my android tablet there are no menu options to list your bookmarks. the 3 little dots dont have a bookmark option. i just want a drop down list from a menu with my bookmarks.](https://support.mozilla.org/en-US/questions/990455)
 
 ##Details
 1. **Tue Mar 18 2014 05:03 AM** [ho do I unregister?](https://support.mozilla.org/en-US/questions/990451 "It was a mistake.  I thought I was registering as a user ... I am not a technical guy."), offtopic
