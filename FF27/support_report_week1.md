@@ -12,6 +12,7 @@
 1. slowness:3
 
 ##Verbatims
+1. [is there a way to delete all my browser history at once! please tell me there is because deleting history and recent pages one at a time is *@$# stupid!](https://support.mozilla.org/en-US/questions/985679)
 
 ##Details
 1. **Tue Feb 04 2014 01:02 AM** [what is the level of fladh player in mobile browser for android by firefox](https://support.mozilla.org/en-US/questions/985306 "i am trying to download some files from a yahoo group and they state I require a flash player of 11.1, my samsung tablet 3 doesnt accept adobe flash player. what di you suggest?"), flash
