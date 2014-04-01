@@ -1,58 +1,58 @@
-985915
-985868
-985667
-985537
-985515
-985942
-985897
-985987
-985982
-985971
-985920
-985916
-985895
-985896
-985859
-985849
-985848
-985826
-985820
-985807
-985805
-985790
-985789
-985776
-985732
-985765
-985760
-985759
-985743
-985740
-985716
-985712
-985679
-985674
-985639
-985613
-985582
-985565
-985562
-985554
-985526
-985513
-985503
-985478
-985456
-985453
-985449
-985447
-985446
-985441
-985426
-985419
-985367
-985348
-985343
-985326
-985321
-985306
+985915 offtopic devicecompat windowsphone8
+985868 dupe
+985667 nook devicecompat
+985537 eclair eclairnotsupported
+985515 eff httpseverywheren notafirefoxproblem
+985942 topsites oldsync
+985897 devicecompat blackberry
+985987 download
+985982 androiddefaultapps notafirefoxproblem
+985971 oldsync sync
+985920 overscrolling rubberband bug705246
+985916 flash flashdownloader
+985895 androidquestion notafirefoxproblem
+985896 flashfox bogusfirefox
+985859 detailsmissing
+985849 dupe
+985848 scam virus malware
+985826 Bulbapedia webcompat fontsize
+985820 notafirefoxproblem googleadsproblem bug970072 slowness
+985807 webcompat fontsize
+985805 download downloadfiles downloadmanager
+985790 history deletehistory ui_issues
+985789 search searchbutton detailsmissing 
+985776 geoblocking offtopic
+985732 defaultbrowser
+985765 detailsmissing deleteprivatedata deleteusername ui_issues
+985760 dupe
+985759 download downloadimage downloadfile detailsmissing
+985743 history
+985740 slowness addon addproblem addblockplus addblockplusproblem
+985716 dupe
+985712 freeze 
+985679 history deletehistory ui_issues
+985674 galaxyexhilirate webcompat detailsmissing
+985639 permissions removingpermissions security privacy locationpermission camerapermission, audiopermission nfcpermission
+985613 facebook webcompat
+985582 webcompat webapp developerquestion
+985565 webcompat freeasp.net crash
+985562 export bookmarks exportbookmarks sync
+985554 blackberry snap androidonblackberry
+985526 notafirefoxproblem offtopic security
+985513 dupe
+985503 flash video_codecs
+985478 ui_issues popup disablepopup 
+985456 searchengines disablesearchengines fixed29
+985453 galaxynote2 bookmarks ui_issues abouthome firefoxhub bookmarkfolders
+985449 dns 
+985447 download ui_issues downloadaudio
+985446 webcompat developerquestion offtopic
+985441 linkify linkifyphonenumbers
+985426 downgrade flash
+985419 privatebrowsing kinderfox
+985367 sendtokindle missingfeature missingkindlefeature quickshare sendtokindle
+985348 windowsmediaplayer pluginproblem
+985343 galaxys3 slowness minimizing detailsmissing
+985326 offtopic facebookquestion
+985321 offtopic
+985306 flash
