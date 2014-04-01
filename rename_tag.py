@@ -6,7 +6,7 @@
 import sys, codecs, locale;
 sys.stdout = codecs.getwriter(locale.getpreferredencoding())(sys.stdout);
 # END KLUDGE
-# usage: ./s-sumo-kb-1-day.py 2014 01 06 2014 01 07
+# usage: ./rename_tag.py ux ui_issues
 
 from bs4 import BeautifulSoup
 import bs4
@@ -60,11 +60,14 @@ def rename_tag(old_tag, new_tag):
     " new tag:", new_tag
   for question in feedback_collection.find():
     for t in question["tags"]:
-      print "tag: ", t
+      print  >> sys.stderr, "tag: ", t
       if t == old_tag:
-        print "TAG MATCH FOUND", old_tag
+        print >> sys.stderr, "TAG MATCH FOUND", old_tag, " renaming to", new_tag
+        question["tags"].remove(old_tag)
+        question["tags"].append(new_tag)
+        feedback_collection.update({"id":question["id"]}, question)
       else:
-        print "t:", t, "does not match old tag:", old_tag
+        print >> sys.stderr, "t:", t, "does not match old tag:", old_tag
 
 old_tag = sys.argv[1].lower()
 new_tag = sys.argv[2].lower()
