@@ -1,0 +1,38 @@
+988232 galaxytab3 defaultbrowser notafirefoxproblem
+988112 detailsmissing
+987803 detailsmissing cookies
+988261 import export importbookmarks exportbookmarks
+988257 javascript
+988109 pdf saveaspdf
+988020 dupe
+987885 history deletehistory
+987689 firefoxhub detailsmissing homepage
+987670 colorpicker
+988354 detailsmissing
+988333 gmelius addonproblem 
+988326 droidx battery power
+988316 sync syncsetup
+988313 crash detailsmissing
+988307 sync 3rdpartysyncserver
+988256 javascript enablingjavascript
+988246 chromequestion
+988219 desktopquestion
+988159 lightbeam
+988134 firefoxhub homepage
+988125 bookmarks sortbookmarks
+988120 facebook detailsmissing
+988083 kindlefire kindlefirehdx install
+988026 popupblocker
+988008 sync syncandroidtodesktop
+988001 devicecompat galaxynotepro android4.4 kitkat
+987909 centurylink notafirefoxproblem
+987841 dupe
+987793 offtopic gmailquestion
+987723 slowness slownessafterunlock unlock detailsmissing
+987718 desktopquestion
+987673 addon quicksearchaddon
+987661 donottrack
+987628 brazilianportguese pr-bt quit
+987622 dupe
+987616 asusmemotab10.1 ancestry.co.uk webcompat
+987594 notafirefoxproblem
