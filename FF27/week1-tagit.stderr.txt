@@ -1,0 +1,294 @@
+MONGO_PASSWORD: None
+MONGO_USER: None
+MONGO_PORT: None
+MONGO_HOST: None
+id and tags: 985915 offtopic devicecompat windowsphone8
+
+in TAGIT, id: 985915  tags: ['offtopic', 'devicecompat', 'windowsphone8']
+EXISTING QUESTION id: 985915
+UPDATED QUESTION id: 985915
+id and tags: 985868 dupe
+
+in TAGIT, id: 985868  tags: ['dupe']
+EXISTING QUESTION id: 985868
+UPDATED QUESTION id: 985868
+id and tags: 985667 nook devicecompat
+
+in TAGIT, id: 985667  tags: ['nook', 'devicecompat']
+EXISTING QUESTION id: 985667
+UPDATED QUESTION id: 985667
+id and tags: 985537 eclair eclairnotsupported
+
+in TAGIT, id: 985537  tags: ['eclair', 'eclairnotsupported']
+EXISTING QUESTION id: 985537
+UPDATED QUESTION id: 985537
+id and tags: 985515 eff httpseverywheren notafirefoxproblem
+
+in TAGIT, id: 985515  tags: ['eff', 'httpseverywheren', 'notafirefoxproblem']
+EXISTING QUESTION id: 985515
+UPDATED QUESTION id: 985515
+id and tags: 985942 topsites oldsync
+
+in TAGIT, id: 985942  tags: ['topsites', 'oldsync']
+EXISTING QUESTION id: 985942
+UPDATED QUESTION id: 985942
+id and tags: 985897 devicecompat blackberry
+
+in TAGIT, id: 985897  tags: ['devicecompat', 'blackberry']
+EXISTING QUESTION id: 985897
+UPDATED QUESTION id: 985897
+id and tags: 985987 download
+
+in TAGIT, id: 985987  tags: ['download']
+EXISTING QUESTION id: 985987
+UPDATED QUESTION id: 985987
+id and tags: 985982 androiddefaultapps notafirefoxproblem
+
+in TAGIT, id: 985982  tags: ['androiddefaultapps', 'notafirefoxproblem']
+EXISTING QUESTION id: 985982
+UPDATED QUESTION id: 985982
+id and tags: 985971 oldsync sync
+
+in TAGIT, id: 985971  tags: ['oldsync', 'sync']
+EXISTING QUESTION id: 985971
+UPDATED QUESTION id: 985971
+id and tags: 985920 overscrolling rubberband bug705246
+
+in TAGIT, id: 985920  tags: ['overscrolling', 'rubberband', 'bug705246']
+EXISTING QUESTION id: 985920
+UPDATED QUESTION id: 985920
+id and tags: 985916 flash flashdownloader
+
+in TAGIT, id: 985916  tags: ['flash', 'flashdownloader']
+EXISTING QUESTION id: 985916
+UPDATED QUESTION id: 985916
+id and tags: 985895 androidquestion notafirefoxproblem
+
+in TAGIT, id: 985895  tags: ['androidquestion', 'notafirefoxproblem']
+EXISTING QUESTION id: 985895
+UPDATED QUESTION id: 985895
+id and tags: 985896 flashfox bogusfirefox
+
+in TAGIT, id: 985896  tags: ['flashfox', 'bogusfirefox']
+EXISTING QUESTION id: 985896
+UPDATED QUESTION id: 985896
+id and tags: 985859 detailsmissing
+
+in TAGIT, id: 985859  tags: ['detailsmissing']
+EXISTING QUESTION id: 985859
+UPDATED QUESTION id: 985859
+id and tags: 985849 dupe
+
+in TAGIT, id: 985849  tags: ['dupe']
+EXISTING QUESTION id: 985849
+UPDATED QUESTION id: 985849
+id and tags: 985848 scam virus malware
+
+in TAGIT, id: 985848  tags: ['scam', 'virus', 'malware']
+EXISTING QUESTION id: 985848
+UPDATED QUESTION id: 985848
+id and tags: 985826 Bulbapedia webcompat fontsize
+
+in TAGIT, id: 985826  tags: ['bulbapedia', 'webcompat', 'fontsize']
+EXISTING QUESTION id: 985826
+UPDATED QUESTION id: 985826
+id and tags: 985820 notafirefoxproblem googleadsproblem bug970072 slowness
+
+in TAGIT, id: 985820  tags: ['notafirefoxproblem', 'googleadsproblem', 'bug970072', 'slowness']
+EXISTING QUESTION id: 985820
+UPDATED QUESTION id: 985820
+id and tags: 985807 webcompat fontsize
+
+in TAGIT, id: 985807  tags: ['webcompat', 'fontsize']
+EXISTING QUESTION id: 985807
+UPDATED QUESTION id: 985807
+id and tags: 985805 download downloadfiles downloadmanager
+
+in TAGIT, id: 985805  tags: ['download', 'downloadfiles', 'downloadmanager']
+EXISTING QUESTION id: 985805
+UPDATED QUESTION id: 985805
+id and tags: 985790 history deletehistory ui_issues
+
+in TAGIT, id: 985790  tags: ['history', 'deletehistory', 'ui_issues']
+EXISTING QUESTION id: 985790
+UPDATED QUESTION id: 985790
+id and tags: 985789 search searchbutton detailsmissing 
+
+in TAGIT, id: 985789  tags: ['search', 'searchbutton', 'detailsmissing']
+EXISTING QUESTION id: 985789
+UPDATED QUESTION id: 985789
+id and tags: 985776 geoblocking offtopic
+
+in TAGIT, id: 985776  tags: ['geoblocking', 'offtopic']
+EXISTING QUESTION id: 985776
+UPDATED QUESTION id: 985776
+id and tags: 985732 defaultbrowser
+
+in TAGIT, id: 985732  tags: ['defaultbrowser']
+EXISTING QUESTION id: 985732
+UPDATED QUESTION id: 985732
+id and tags: 985765 detailsmissing deleteprivatedata deleteusername ui_issues
+
+in TAGIT, id: 985765  tags: ['detailsmissing', 'deleteprivatedata', 'deleteusername', 'ui_issues']
+EXISTING QUESTION id: 985765
+UPDATED QUESTION id: 985765
+id and tags: 985760 dupe
+
+in TAGIT, id: 985760  tags: ['dupe']
+EXISTING QUESTION id: 985760
+UPDATED QUESTION id: 985760
+id and tags: 985759 download downloadimage downloadfile detailsmissing
+
+in TAGIT, id: 985759  tags: ['download', 'downloadimage', 'downloadfile', 'detailsmissing']
+EXISTING QUESTION id: 985759
+UPDATED QUESTION id: 985759
+id and tags: 985743 history
+
+in TAGIT, id: 985743  tags: ['history']
+EXISTING QUESTION id: 985743
+UPDATED QUESTION id: 985743
+id and tags: 985740 slowness addon addproblem addblockplus addblockplusproblem
+
+in TAGIT, id: 985740  tags: ['slowness', 'addon', 'addproblem', 'addblockplus', 'addblockplusproblem']
+EXISTING QUESTION id: 985740
+UPDATED QUESTION id: 985740
+id and tags: 985716 dupe
+
+in TAGIT, id: 985716  tags: ['dupe']
+EXISTING QUESTION id: 985716
+UPDATED QUESTION id: 985716
+id and tags: 985712 freeze 
+
+in TAGIT, id: 985712  tags: ['freeze']
+EXISTING QUESTION id: 985712
+UPDATED QUESTION id: 985712
+id and tags: 985679 history deletehistory ui_issues
+
+in TAGIT, id: 985679  tags: ['history', 'deletehistory', 'ui_issues']
+EXISTING QUESTION id: 985679
+UPDATED QUESTION id: 985679
+id and tags: 985674 galaxyexhilirate webcompat detailsmissing
+
+in TAGIT, id: 985674  tags: ['galaxyexhilirate', 'webcompat', 'detailsmissing']
+EXISTING QUESTION id: 985674
+UPDATED QUESTION id: 985674
+id and tags: 985639 permissions removingpermissions security privacy locationpermission camerapermission, audiopermission nfcpermission
+
+in TAGIT, id: 985639  tags: ['permissions', 'removingpermissions', 'security', 'privacy', 'locationpermission', 'camerapermission,', 'audiopermission', 'nfcpermission']
+EXISTING QUESTION id: 985639
+UPDATED QUESTION id: 985639
+id and tags: 985613 facebook webcompat
+
+in TAGIT, id: 985613  tags: ['facebook', 'webcompat']
+EXISTING QUESTION id: 985613
+UPDATED QUESTION id: 985613
+id and tags: 985582 webcompat webapp developerquestion
+
+in TAGIT, id: 985582  tags: ['webcompat', 'webapp', 'developerquestion']
+EXISTING QUESTION id: 985582
+UPDATED QUESTION id: 985582
+id and tags: 985565 webcompat freeasp.net crash
+
+in TAGIT, id: 985565  tags: ['webcompat', 'freeasp.net', 'crash']
+EXISTING QUESTION id: 985565
+UPDATED QUESTION id: 985565
+id and tags: 985562 export bookmarks exportbookmarks sync
+
+in TAGIT, id: 985562  tags: ['export', 'bookmarks', 'exportbookmarks', 'sync']
+EXISTING QUESTION id: 985562
+UPDATED QUESTION id: 985562
+id and tags: 985554 blackberry snap androidonblackberry
+
+in TAGIT, id: 985554  tags: ['blackberry', 'snap', 'androidonblackberry']
+EXISTING QUESTION id: 985554
+UPDATED QUESTION id: 985554
+id and tags: 985526 notafirefoxproblem offtopic security
+
+in TAGIT, id: 985526  tags: ['notafirefoxproblem', 'offtopic', 'security']
+EXISTING QUESTION id: 985526
+UPDATED QUESTION id: 985526
+id and tags: 985513 dupe
+
+in TAGIT, id: 985513  tags: ['dupe']
+EXISTING QUESTION id: 985513
+UPDATED QUESTION id: 985513
+id and tags: 985503 flash video_codecs
+
+in TAGIT, id: 985503  tags: ['flash', 'video_codecs']
+EXISTING QUESTION id: 985503
+UPDATED QUESTION id: 985503
+id and tags: 985478 ui_issues popup disablepopup 
+
+in TAGIT, id: 985478  tags: ['ui_issues', 'popup', 'disablepopup']
+EXISTING QUESTION id: 985478
+UPDATED QUESTION id: 985478
+id and tags: 985456 searchengines disablesearchengines fixed29
+
+in TAGIT, id: 985456  tags: ['searchengines', 'disablesearchengines', 'fixed29']
+EXISTING QUESTION id: 985456
+UPDATED QUESTION id: 985456
+id and tags: 985453 galaxynote2 bookmarks ui_issues abouthome firefoxhub bookmarkfolders
+
+in TAGIT, id: 985453  tags: ['galaxynote2', 'bookmarks', 'ui_issues', 'abouthome', 'firefoxhub', 'bookmarkfolders']
+EXISTING QUESTION id: 985453
+UPDATED QUESTION id: 985453
+id and tags: 985449 dns 
+
+in TAGIT, id: 985449  tags: ['dns']
+EXISTING QUESTION id: 985449
+UPDATED QUESTION id: 985449
+id and tags: 985447 download ui_issues downloadaudio
+
+in TAGIT, id: 985447  tags: ['download', 'ui_issues', 'downloadaudio']
+EXISTING QUESTION id: 985447
+UPDATED QUESTION id: 985447
+id and tags: 985446 webcompat developerquestion offtopic
+
+in TAGIT, id: 985446  tags: ['webcompat', 'developerquestion', 'offtopic']
+EXISTING QUESTION id: 985446
+UPDATED QUESTION id: 985446
+id and tags: 985441 linkify linkifyphonenumbers
+
+in TAGIT, id: 985441  tags: ['linkify', 'linkifyphonenumbers']
+EXISTING QUESTION id: 985441
+UPDATED QUESTION id: 985441
+id and tags: 985426 downgrade flash
+
+in TAGIT, id: 985426  tags: ['downgrade', 'flash']
+EXISTING QUESTION id: 985426
+UPDATED QUESTION id: 985426
+id and tags: 985419 privatebrowsing kinderfox
+
+in TAGIT, id: 985419  tags: ['privatebrowsing', 'kinderfox']
+EXISTING QUESTION id: 985419
+UPDATED QUESTION id: 985419
+id and tags: 985367 sendtokindle missingfeature missingkindlefeature quickshare sendtokindle
+
+in TAGIT, id: 985367  tags: ['sendtokindle', 'missingfeature', 'missingkindlefeature', 'quickshare', 'sendtokindle']
+EXISTING QUESTION id: 985367
+UPDATED QUESTION id: 985367
+id and tags: 985348 windowsmediaplayer pluginproblem
+
+in TAGIT, id: 985348  tags: ['windowsmediaplayer', 'pluginproblem']
+EXISTING QUESTION id: 985348
+UPDATED QUESTION id: 985348
+id and tags: 985343 galaxys3 slowness minimizing detailsmissing
+
+in TAGIT, id: 985343  tags: ['galaxys3', 'slowness', 'minimizing', 'detailsmissing']
+EXISTING QUESTION id: 985343
+UPDATED QUESTION id: 985343
+id and tags: 985326 offtopic facebookquestion
+
+in TAGIT, id: 985326  tags: ['offtopic', 'facebookquestion']
+EXISTING QUESTION id: 985326
+UPDATED QUESTION id: 985326
+id and tags: 985321 offtopic
+
+in TAGIT, id: 985321  tags: ['offtopic']
+EXISTING QUESTION id: 985321
+UPDATED QUESTION id: 985321
+id and tags: 985306 flash
+
+in TAGIT, id: 985306  tags: ['flash']
+EXISTING QUESTION id: 985306
+UPDATED QUESTION id: 985306
