@@ -1,54 +1,54 @@
-987461
-987381
-987247
-987124
-987008
-987462
-987448
-987079
-987445
-987443
-987435
-987433
-987430
-987428
-987421
-987357
-987407
-987382
-987369
-987315
-987306
-986543
-987242
-987214
-987210
-987208
-987199
-987196
-987191
-987167
-987163
-987159
-987127
-987120
-987073
-987064
-987062
-987056
-987053
-987036
-987032
-987002
-986976
-986964
-986958
-986951
-986937
-986927
-986904
-986900
-986894
-986853
-986826
+987461 dupe
+987381 locationpermission ui_issues editsitesettings
+987247 spam
+987124 detailsmissing
+987008 spam
+987462 download downloadfolder
+987448 slowness motox nexus5
+987079 savepage readitlater
+987445 dupe
+987443 defaultbrowser notafirefoxproblem
+987435 deletehistory history
+987433 youtube frenchquestion
+987430 youtube notafirefoxproblem
+987428 detailsmissing useragent
+987421 dupe
+987357 offtopic
+987407 privacy topsites deletetopsites fixed29 
+987382 bbciplayer bbc bug775919
+987369 notafirefoxproblem
+987315 defaultbrowser
+987306 firefoxosquestion
+986543 video_codecs android2.3.6 flash detailsmissng h.264
+987242 notafirefoxproblem blocksites
+987214 webcompat backbutton stalecontent
+987210 bug975439 wap download
+987208 windowsphone devicecompat unsupported
+987199 devicecomp gingerbread
+987196 detailsmissing
+987191 developerquestion addon
+987167 detailsmissing
+987163 gingerbread android2.3.6 landscape landscapefuzzy
+987159 firefoxdesktopquestion sync bookmarks restorebookmarks syncbookmarks
+987127 usereducation 
+987120 flash detailsmissing
+987073 usps webcompat droid3 android2.3.4 gingerbread notafirefoxproblem
+987064 cert startcom startcomcert smimecert smime export exportcert
+987062 notafirefoproblem cyanogenmodproblem cyanogenmod unsupportedrom 
+987056 devicecompat desktopquestion
+987053 notafirefoxbug richtexteditor yahoo yahoomobilemail yahoo
+987036 bookmarks
+987032 crash tablet android4.2.2 jellybean detailsmissing
+987002 zoom form formfill
+986976 sync accountsetup syncaccount
+986964 gingerbread android2.3.6 tmobilemytouchq
+986958 devicecompat iosnotsupported ios iphone
+986951 sharetab sync bug965811 sendtab bug965811 fixed29 fixedbeta
+986937 ui_issues alwaysrestoretabs tabs
+986927 motorolaxyboard flash detailsmissing plugin
+986904 sdcard sdcardproblem offtopic notafirefoxproblem
+986900 search searchnotimplemented detailsmissing
+986894 import importbookmarks galaxynote2 crash
+986853 java javanotsupported notsupported
+986826 detailsmissing install
 986822 sync bandwidthmanagement bookmarks ui_issues featurerequest
