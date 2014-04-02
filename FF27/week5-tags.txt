@@ -1,44 +1,44 @@
-989021
-988564
-988953
-988680
-988679
-989313
-989312
-989263
-989259
-989120
-989235
-989206
-989205
-989148
-989139
-989136
-989131
-989124
-989123
-989100
-989043
-988995
-988927
-988905
-988806
-988789
-988751
-988706
-988685
-988671
-988670
-988636
-988627
-988605
-988601
-988600
-988523
-988562
-988547
-988526
-988499
-988492
-988490
-988469
+989021 sync detailsmissing
+988564 offtopic
+988953 loadprogressmeter ui_issues duplicatetab
+988680 webcompat pcmag.com
+988679 history deletehistory ui_issues
+989313 bookmarks deleteduplicatebookmarks
+989312 defaultbrowser
+989263 download
+989259 mediaplayer defaultmediaplayer notafirefoxproblem
+989120 javascript enablejavascript droidx
+989235 olivemobileviewer olivemobileviewerproblem 
+989206 javascript
+989205 dupe
+989148 xperiaz1 imagetoolarge webcompat smosh.com
+989139 detailsmissing
+989136 offtopic
+989131 firefoxhub abouthome homepage
+989124 galaxynotepro zoom bug982154
+989123 facebook notafirefoxproblem
+989100 samsungs4 crash lastpass
+989043 share
+988995 rizdesigns4u.com webcompat
+988927 greyhound detailsmissing
+988905 bookmarks import importbookmarks sync syncdesktoptoandroid
+988806 popupblocker turnoffpopupblocker
+988789 slowness startup
+988751 detailsmissing
+988706 searchengine deletesearchengine
+988685 webcompat minimundos
+988671 bookmarks restorebookmarks galaxys4 dataloss
+988670 download overwrite
+988636 tibetan webcompat
+988627 droidrazrmaxx detailsmissing
+988605 sync
+988601 dupe
+988600 import bookmarks importbookmarks
+988523 plugin detailmissing
+988562 menulocation xperia
+988547 banking detailsmissing webcompat
+988526 audio backgroundaudio
+988499 downgrade
+988492 detailsmissing
+988490 cert
+988469 fixed28 webcompat noaa
