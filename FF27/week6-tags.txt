@@ -1,48 +1,48 @@
-990181
-990169
-990079
-990077
-990053
-989586
-990270
-990260
-990256
-990250
-990241
-990239
-990211
-990208
-990203
-990133
-990084
-990059
-990058
-990055
-990051
-990009
-990006
-989968
-989961
-989959
-989949
-989934
-989919
-989918
-989749
-989881
-989850
-989803
-989800
-989705
-989626
-989641
-989634
-989619
-989616
-989615
-989589
-989571
-989541
-989492
-989466
-989460
+990181 sync recoverykey
+990169 history deletehistory
+990079 offtopoc
+990077 dupe
+990053 offtopic
+989586 popupblocker
+990270 offtopic
+990260 bogusdownload flashfoxpro
+990256 popupblocker popup
+990250 proxy
+990241 bogusdownload firefoxpro
+990239 download videodownload addon videodownloadaddon 4kvideodownloader
+990211 webcompat efp.bpcl.in
+990208 detailsmissing fontsize taptozoom zoom
+990203 history deletehistory
+990133 video video_codecs fixed28.0.1 fixed28
+990084 detailsmissing
+990059 download downloadfolder
+990058 detailsmissing
+990055 history deletehistory
+990051 defaultbrowser
+990009 import importbookmarks
+990006 offtopic 
+989968 deleteprivatedata detailsmissing topsites ui_issues restoretabs
+989961 import bookmarks importbookmarks
+989959 dupe
+989949 popups detailsmissing
+989934 sync syncandroidtodesktop
+989919 spam
+989918 spam
+989749 kyocera javascript enablejavascript
+989881 install bogusdownloadsite
+989850 sync syncandroidtodesktop bug958889
+989803 plugin appszoom foscamF19805W
+989800 xmarks notafirefoxproblem
+989705 video
+989626 tabs restoretabs
+989641 thunderbirdquestion
+989634 webcompat irctc
+989619 addons galaxys4
+989616 dupe
+989615 offtopic
+989589 offtopic
+989571 offtopic
+989541 homepage firefoxhub ui_issues
+989492 firefoxosquestion
+989466 history ui_issues
+989460 devicecompat kindlefire kindlefirehdx bug713777
