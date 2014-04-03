@@ -1,0 +1,46 @@
+#SUMO Forum Support Report  2014/03/31-2014/04/04
+##Tag Summary
+
+##Verbatims
+
+##Details
+1. **Mon Mar 31 2014 12:03 AM** [What is the use to make a browser default?](https://support.mozilla.org/en-US/questions/992610 "What is the use to make a browser default?"), 
+1. **Mon Mar 31 2014 07:03 AM** [How do I export/import bookmarks from one version of FF to another?](https://support.mozilla.org/en-US/questions/992644 "I have been using FF Beta and downloaded FF for Android. How can I get all of my bookmarks to mobile version?"), 
+1. **Mon Mar 31 2014 07:03 AM** [How do I export/import bookmarks from one version of FF to another?](https://support.mozilla.org/en-US/questions/992645 "I have been using FF Beta and downloaded FF for Android. How can I get all of my bookmarks to mobile version?"), 
+1. **Mon Mar 31 2014 04:03 PM** [Hi, i'm looking for the preferences file of firefox on android.](https://support.mozilla.org/en-US/questions/992689 "I want to finde de firefox preferences file on Android, like the prefs.js file on PC."), 
+1. **Mon Mar 31 2014 07:03 PM** [Typing & text emojis R invisible](https://support.mozilla.org/en-US/questions/992713 "show up on Facebook format to my not known if and what others see but they are invisible....FIREFOX RULES THANK YOU SINCERELY"), 
+1. **Mon Mar 31 2014 07:03 PM** [http//www.gmail.com](https://support.mozilla.org/en-US/questions/992715 "Shamilkasim479@gmail.com password kasim123 email Kasim.Shamil.3@facebook.com password kasim123 number+251 913 633 617"), 
+1. **Mon Mar 31 2014 07:03 PM** [Attach button on gmail](https://support.mozilla.org/en-US/questions/992717 "Hi,
+When i compose an email in gmail, i cant find button to attach files. This is a fresh install without any addons and such!
+Please help"), 
+1. **Mon Mar 31 2014 08:03 PM** [When typing one letter in the search box,  autocomplete fill in with url from bookmarks followed by letter I type](https://support.mozilla.org/en-US/questions/992734 "Using Firefox for Android on my Galaxy S4.  When I first open FF and start typing one letter in the search box, the box is automatically filled with one of my bookmarks matching just on the first letter.  This is then followed by the word I was trying to type.
+For instance, I am typing "Jack" and I end up with ""), 
+1. **Tue Apr 01 2014 08:04 AM** [Brows](https://support.mozilla.org/en-US/questions/992801 "Abouj"), 
+1. **Tue Apr 01 2014 08:04 AM** [How do I import Bookmarks from my Windows laptop onto my Android tablet?](https://support.mozilla.org/en-US/questions/992802 "I am trying to import the Bookmarks from my Windows laptop. I do not want to sync, just a one-off import. Anyway SYNC refused to work.
+Any help would be great. I'm a complete newbie with Android."), 
+1. **Tue Apr 01 2014 09:04 AM** [How to backup bookmarks](https://support.mozilla.org/en-US/questions/992805 "Bookmarks"), 
+1. **Tue Apr 01 2014 10:04 AM** [Sort bookmarks](https://support.mozilla.org/en-US/questions/992813 "How do i sort my bookmarks? Would be easier for me if they were alphabetized. Also would like to have folders for some."), 
+1. **Tue Apr 01 2014 02:04 PM** [Agung](https://support.mozilla.org/en-US/questions/992838 "Sukses adalah jalan yang harus di tuju"), 
+1. **Tue Apr 01 2014 07:04 PM** [firefox is  necessary for net banking?](https://support.mozilla.org/en-US/questions/992882 "Yes it is necessary for"), 
+1. **Tue Apr 01 2014 08:04 PM** [o firefox os LG D300f tem andoid](https://support.mozilla.org/en-US/questions/992895 "O firefox os lg-d300f tem android"), 
+1. **Tue Apr 01 2014 10:04 PM** [Can I update Firefox without going through Google Play?](https://support.mozilla.org/en-US/questions/992910 "I got a Google Nexus 5 last month. I discovered that in order to update Google Chrome, I had to have a Google Account. I have a Google Account but don't want to use it on my phone. Each time I start Google Chrome, a message comes up saying that a new update is available. So, I decided to try Firefox. I discovered that if I tried downloading Firefox through my phone on this site, I was asked to create a new Google Account or log in with an existing one."), 
+1. **Tue Apr 01 2014 11:04 PM** [Set homepage](https://support.mozilla.org/en-US/questions/992919 "How do I set my homepage ?"), 
+1. **Wed Apr 02 2014 01:04 AM** [Are there any plans to add folders and streamlining bookmarks in the future??](https://support.mozilla.org/en-US/questions/992936 "I would like to seperate my work bookmarks from my peraonal bookmarks to make my browser more user friendly."), 
+1. **Wed Apr 02 2014 05:04 AM** [Can't decipher various symbols because I communicate with words made of symbols called the alphabet, not hieroglyphs.](https://support.mozilla.org/en-US/questions/992948 "The hieroglyphs that have inundated mobile apps are fking indecipherable.  Tell me, what does a symbol of four solid squares bounded by a dotted square mean?  To a fking  cave man it's probably the name of a city, but here, in the modern world, where we communicate by making words out of common symbols known to many, (we call it an alphabet, part of this thing called language, which facilitates communication and reduces confusion), ALL IT IS IS FOUR SQUARES IN A BOX.  I shouldn't need to learn a new language to use a tablet, when someone who speaks my language could simply put WORDS in the 'buttons,' or whatever they're called.  Does the clipboard mean copy to the clipboard, or from it??  I can't use the process of elimination, because none of the other caveman symbols are labeled either!  If Firefox is trying to emulate windows 8, please, please, please for the love of god, stop.  No one like windows 8."), 
+1. **Wed Apr 02 2014 05:04 AM** [Does anyone know the answer of following question? It will helpful for me. Thanks.](https://support.mozilla.org/en-US/questions/992949 "I am developing a firefox os packaged app. For my app what will be the values of red marked portions. Please see the following picture in stackoverflow."), 
+1. **Wed Apr 02 2014 05:04 AM** [Facebook app configuration for Firefox os(packaged app)](https://support.mozilla.org/en-US/questions/992950 "locking this thread as duplicate, please continue at"), 
+1. **Wed Apr 02 2014 05:04 AM** [Why are you supporting homophobic hate?](https://support.mozilla.org/en-US/questions/992932 "What is going on?  Why is you ceo supporting prop 8 financially?  
+I have used foxfire for years now but i guess i will have to switch to chrome.  It is disgusting to  be using a product that funds hate groups and bigoted laws.  Why would you let your public and yourselves down?"), 
+1. **Wed Apr 02 2014 06:04 AM** [Block websites](https://support.mozilla.org/en-US/questions/992954 "Can I block certain websites on Firefox mobile?"), 
+1. **Wed Apr 02 2014 07:04 AM** [mozillada butonların css alma problemi](https://support.mozilla.org/en-US/questions/992955 "http://tarifi.info"), 
+1. **Wed Apr 02 2014 10:04 AM** [Trying to go to studentaid.ed.gov.      it will not](https://support.mozilla.org/en-US/questions/992968 "Keeps saying browsers are blocked"), 
+1. **Wed Apr 02 2014 11:04 AM** [Can't Sync my android](https://support.mozilla.org/en-US/questions/992976 "I can't sync my Android smartphone with my desktop, because in Firefox on my Android smartphone I use another email address than when creating a sync account on my desktop.
+How can I change my email address in Firefox on my smartphone (Android v4.0.3 ICS)?
+Thank you & kund regards, Ivo"), 
+1. **Wed Apr 02 2014 03:04 PM** [Firefox (27.0 from f-droid) for Android (4.2.2) will not play YouTube videos (m.youtube.com)](https://support.mozilla.org/en-US/questions/993011 "Youtube app is not installed. Flash is not installed. The default Android browser (“Browser”) can simply play the videos inside the webpage, but Firefox simply shows a black screen with no in-page or any other playback. This is similar to user “yumiko”’s problem that has not been solved. Why does Firefox lack in-page playback of YouTube videos?"), 
+1. **Wed Apr 02 2014 05:04 PM** [Deleting history](https://support.mozilla.org/en-US/questions/993030 "How are you supposed to delete history"), 
+1. **Wed Apr 02 2014 05:04 PM** [Deleting history](https://support.mozilla.org/en-US/questions/993031 "How do you delete history?"), 
+1. **Wed Apr 02 2014 10:04 PM** [When will Firefox have Adobe Flash for Android cell phones?](https://support.mozilla.org/en-US/questions/993074 "My website requires Adobe Flash Player to be installed to view images in my photo gallery.  Why doesn't Mozilla Firefox support Adobe Flash Player? Will it be available in the very near future? This is an extremely important feature for my site."), 
+1. **Thu Apr 03 2014 12:04 AM** [Not receiveing emails](https://support.mozilla.org/en-US/questions/993096 "From Cabelas Club.sportsman guide. Summit. Some others. Is it my old browser"), 
+1. **Thu Apr 03 2014 03:04 AM** [Change the maximum zoom level](https://support.mozilla.org/en-US/questions/993103 "Hi,"), 
+1. **Thu Apr 03 2014 05:04 AM** [All my save as PDF selections have suffix appended](https://support.mozilla.org/en-US/questions/993075 "Selecting tools and selecting save as PDF cause a PDF file to be created OK, but each file follows the following format."), 
