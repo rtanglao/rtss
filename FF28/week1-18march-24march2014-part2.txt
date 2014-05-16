@@ -1,0 +1,65 @@
+996181
+995848
+995794
+995682
+995583
+996171
+996066
+996336
+996259
+996246
+996210
+995974
+995930
+995895
+995868
+995779
+995759
+995741
+995738
+995726
+995715
+995702
+995691
+995674
+995668
+995666
+995653
+995651 detailsmissing sync
+995633 zoom automaticallyzoom
+995629 dupe
+995628 dupe
+995624 detailsmissing privacy security
+995601 note2 multiwindow
+995587 crash at&tavail
+995575 tabs closetabs
+995566 imagedownload
+995554 keyboard s4 swype kii swiftkey thirdpartykeyboard
+996334 tabcounter
+996308 sync brazilianportuguese
+996282 androidpermissions
+996260 notafirefoxproblem
+996257 kitkat tabsreload tabs
+996254 bookmarks importbookmarks	
+996251 webcompat 
+996243 heartbleed notafirefoxproblem security privacy
+996232 dupe
+996221 tab3 crash detailsmissing
+996185 dupe
+996175 dupe
+996174 detailmissing offtopic
+996166 offtopic detailsmissing
+996161 dupe
+996144 antivirus security notafirefoxproblem
+996112 kitsuneproblem notafirefoxproblem
+996106 offtopic firefoxosquestion developerquestion
+996097 facebook facebookproblem notafirefoxproblem
+996092 detailsmissing webcompat offtopic
+996060 bookmarks importbookmarks chrometofirefox
+996085 firefoxosquestion offtopic
+996006 crash at&tavail2 icecreamsandwich
+996001 gioneeg3 webcompat reflowonzoom
+995982 ratings amo amoproblem
+995975 install
+995944 detailsmissing webcompat
+995936 certificate cert notafirefoxproblem
