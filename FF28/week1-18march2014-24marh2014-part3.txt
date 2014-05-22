@@ -1,0 +1,27 @@
+996181 offtopic spam
+995848 detailsmissing menu menulocation
+995794 questiondeleted
+995682 questiondeleted
+995583 offtopic spam
+996171 sync detailsmissing
+996066 offtopic spam
+996336 offtopic spam
+996259 offtopic spam
+996246 offtopic spam
+996210 themeresettodefault  lightweightthemeswitcher lightweightthemeswitcheraddon detailsmissing
+995974 questiondeleted
+995930 history deletehistory
+995895 offtopic
+995868 homepage sethomepage
+995779 bookmarks
+995759 sync androidtoandroidsync androidsync
+995741 passwordmanager password mobilepasswordmanager notafirefoxproblem mobilepaswordmanageraddon
+995738 detailsmissing add-ons
+995726 questiondeleted
+995715 detailsmissing password security facebook
+995702 youtube video requestdesktopsite
+995691 bookmarks bookmarksimport sync
+995674 install sdcard sdcardinstall
+995668 mediacomproblem ispproblem notafirefoxproblem dns dnsproblem
+995666 progressbar spinningthrobber 
+995653 xperiaz2tablet tablet flash video_codecs
