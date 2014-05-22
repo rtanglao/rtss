@@ -1,0 +1,70 @@
+991479
+991365
+990972
+991604
+991528
+991508
+991286
+990787
+990781
+990779
+990750
+991511
+991493
+991462
+991350
+990906
+990810
+990803
+991611
+991606
+991602
+991594
+991593
+991592
+991566
+991546
+991514
+991502
+991499
+991498
+991426
+991419
+991380
+991349
+991348
+991334
+991330
+989076
+991303
+991290
+991281
+991242
+991239
+991224
+991229
+991218
+991214
+991175
+991078
+991057
+991050 crash
+991044 developerquestion androidintent
+991041 questiondeleted
+991032 topsites deletetopsites
+991027 questiondeleted
+991007 desktopquestion
+991002 questiondeleted
+990970 download detailsmissing
+990961 fr-ca localization fr-calocalization
+990955 install crash
+990914 p12 certficate
+990859 backup backuptogoogledrive googledrive notafirefoxproblem
+990857 sync bookmarkssync detailsmissing
+990850 detailsmissing googlesearh
+990813 proxify detailmissing
+990811 permisions ui_issues
+990789 crash fullscreen
+990778 questiondeleted
+990768 tabsontop tabs ux
+990745 questiondeleted
