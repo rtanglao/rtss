@@ -1,15 +1,15 @@
 #SUMO Forum Support Report  2014/03/18-2014/03/24
 ##Tag Summary
+1. questiondeleted:5
 1. addon:4
+1. crash:4
+1. detailsmissing:4
+1. desktopquestion:3
 1. offtopic:3
+1. notafirefoxproblem:3
+1. ui_issues:3
 1. addonproblem:2
-1. desktopquestion:2
-1. notafirefoxproblem:2
 1. bookmarks:2
-1. ui_issues:2
-1. firefoxhub:1
-1. firefoxosquestion:1
-1. xperiat:1
 
 ##Verbatims
 
@@ -37,39 +37,39 @@ Still cant figure out why. Please help"), firefoxaccounts, sync, firefoxacccount
 1. **Wed Mar 19 2014 12:03 PM** [What does DNS Server isn't responding. mean](https://support.mozilla.org/en-US/questions/990669 "When I go tho Internet Explorer Google does not load. So I diagnose the problem on the trouble shooter, and the message that pops up reads:
 Either Internet explorer stored working. Or DNS Server isn't responding please.... please help me thanks very much"), dns, notafirefoxproblem
 1. **Wed Mar 19 2014 04:03 PM** [Updating AddOns](https://support.mozilla.org/en-US/questions/990709 "I have attempted to update AddOns on serveral occasions and have given up in frustration. I follow the instrutions... I don't know what I'm doing wrong?"), detailsmissing, addon, addonproblem, addonupgrade
-1. **Wed Mar 19 2014 06:03 PM** [A letöltéseknél a Marketplacon a tudni valok az egyes dolgokról miért nem magyarul vannak?](https://support.mozilla.org/en-US/questions/990745 "Nem tudok így letölteni nem tudom mi milyen alkalmazás játék"), 
+1. **Wed Mar 19 2014 06:03 PM** [A letöltéseknél a Marketplacon a tudni valok az egyes dolgokról miért nem magyarul vannak?](https://support.mozilla.org/en-US/questions/990745 "Nem tudok így letölteni nem tudom mi milyen alkalmazás játék"), questiondeleted
 1. **Wed Mar 19 2014 07:03 PM** [Homepage w/links](https://support.mozilla.org/en-US/questions/990750 "Select a homepage"), 
-1. **Wed Mar 19 2014 09:03 PM** [tablet ui tabs style must be changed](https://support.mozilla.org/en-US/questions/990768 "cause it is not effective while working with multiple tabs . its not cool to tap scroll find the tab you look for then read it and return to another. wish it would be considered , nearly all browsers put the toolbar to top for easy switching."), 
-1. **Wed Mar 19 2014 09:03 PM** [How can I save a Project Gutenberg ebook, as a text. File open in browser, but I cannot save .     http://www.gutenberg.org/cache/epub/345/pg345.txt](https://support.mozilla.org/en-US/questions/990778 "Saving links to this eBook was not always successful when using the addon..."), 
+1. **Wed Mar 19 2014 09:03 PM** [tablet ui tabs style must be changed](https://support.mozilla.org/en-US/questions/990768 "cause it is not effective while working with multiple tabs . its not cool to tap scroll find the tab you look for then read it and return to another. wish it would be considered , nearly all browsers put the toolbar to top for easy switching."), tabsontop, tabs, ux
+1. **Wed Mar 19 2014 09:03 PM** [How can I save a Project Gutenberg ebook, as a text. File open in browser, but I cannot save .     http://www.gutenberg.org/cache/epub/345/pg345.txt](https://support.mozilla.org/en-US/questions/990778 "Saving links to this eBook was not always successful when using the addon..."), questiondeleted
 1. **Wed Mar 19 2014 10:03 PM** [web page read](https://support.mozilla.org/en-US/questions/990779 "How to save viewd web page"), 
 1. **Wed Mar 19 2014 10:03 PM** [web sites](https://support.mozilla.org/en-US/questions/990781 "How to read later or save web page"), 
 1. **Wed Mar 19 2014 10:03 PM** [Lehlelilu](https://support.mozilla.org/en-US/questions/990787 "Lehlelilu"), 
-1. **Wed Mar 19 2014 10:03 PM** [Hi everyone.i have a problem with firefox,when I watch film, I cant get full screen.How I  can fix it?](https://support.mozilla.org/en-US/questions/990789 "When I want make it fullscreen,it crashs,doesnt show anything just darkness but I can hear sound"), 
+1. **Wed Mar 19 2014 10:03 PM** [Hi everyone.i have a problem with firefox,when I watch film, I cant get full screen.How I  can fix it?](https://support.mozilla.org/en-US/questions/990789 "When I want make it fullscreen,it crashs,doesnt show anything just darkness but I can hear sound"), crash, fullscreen
 1. **Thu Mar 20 2014 12:03 AM** [Why can't I log onto onto ASMconnects?](https://support.mozilla.org/en-US/questions/990803 "I need to get onto this website for work."), 
 1. **Thu Mar 20 2014 01:03 AM** [Proxify](https://support.mozilla.org/en-US/questions/990810 "The proxify toolbar will not work with FF28.  How do I access an older version?"), 
-1. **Thu Mar 20 2014 01:03 AM** [How to make firefox on android do less](https://support.mozilla.org/en-US/questions/990811 "I like that on android certain things get passed off to apps. Like youtube links, videos, etc. I'm giving firefox on android a try again and it wants to do everything and I can't fi d a way to make it not."), 
-1. **Thu Mar 20 2014 01:03 AM** [Proxify toolbar won't work with FF28, how to get older version?](https://support.mozilla.org/en-US/questions/990813 "How do I make Proxify work with FF 20 mobile?"), 
-1. **Thu Mar 20 2014 07:03 AM** [Google search page not working properly](https://support.mozilla.org/en-US/questions/990850 "When Google search page is opend in  chrome it opens a menu of its services but in Firefox Aurora it opens a whole page"), 
-1. **Thu Mar 20 2014 09:03 AM** [bookmark sync with samsung note 3](https://support.mozilla.org/en-US/questions/990857 "Please understand I have gone thru all of the commands/instructions, before asking for help.  To tell you the truth, I have tried deleting, and starting the process over three times now, 3 hrs each time.  I can NOT get it to work.  All I want to do is have all my bookmarks cross over to my new Samsung Galaxy Note III - in the Android Firefox application.  It just wont happen.  Everything will be word for work/step by step until a certain point - then its not applicable to me - or it just doesn't work."), 
+1. **Thu Mar 20 2014 01:03 AM** [How to make firefox on android do less](https://support.mozilla.org/en-US/questions/990811 "I like that on android certain things get passed off to apps. Like youtube links, videos, etc. I'm giving firefox on android a try again and it wants to do everything and I can't fi d a way to make it not."), permisions, ui_issues
+1. **Thu Mar 20 2014 01:03 AM** [Proxify toolbar won't work with FF28, how to get older version?](https://support.mozilla.org/en-US/questions/990813 "How do I make Proxify work with FF 20 mobile?"), proxify, detailmissing
+1. **Thu Mar 20 2014 07:03 AM** [Google search page not working properly](https://support.mozilla.org/en-US/questions/990850 "When Google search page is opend in  chrome it opens a menu of its services but in Firefox Aurora it opens a whole page"), detailsmissing, googlesearh
+1. **Thu Mar 20 2014 09:03 AM** [bookmark sync with samsung note 3](https://support.mozilla.org/en-US/questions/990857 "Please understand I have gone thru all of the commands/instructions, before asking for help.  To tell you the truth, I have tried deleting, and starting the process over three times now, 3 hrs each time.  I can NOT get it to work.  All I want to do is have all my bookmarks cross over to my new Samsung Galaxy Note III - in the Android Firefox application.  It just wont happen.  Everything will be word for work/step by step until a certain point - then its not applicable to me - or it just doesn't work."), sync, bookmarkssync, detailsmissing
 1. **Thu Mar 20 2014 09:03 AM** [How do I back up firefox for mobile to google drive?](https://support.mozilla.org/en-US/questions/990859 "I need to have a permanent "cloud" back up for my bookMarks on my android device.
 How do I do I back them up to google drive?
-It is set up and has folder waiting."), 
+It is set up and has folder waiting."), backup, backuptogoogledrive, googledrive, notafirefoxproblem
 1. **Thu Mar 20 2014 11:03 AM** [when will be the 25 dollar smartphone be available in indian market launched by mozilla](https://support.mozilla.org/en-US/questions/990595 "how can i buy it and from where and when"), firefoxosquestion
 1. **Thu Mar 20 2014 02:03 PM** [fcall.in not loading in my browser](https://support.mozilla.org/en-US/questions/990906 "Hello, I am trying to open a website"), 
-1. **Thu Mar 20 2014 03:03 PM** [What and y does my play store keep asking me for a P12 extention.This file is not found in my phone.Can you help by just fixing the issue?](https://support.mozilla.org/en-US/questions/990914 "Please help me with this P12"), 
-1. **Thu Mar 20 2014 07:03 PM** [Mozilla Firefox wont start](https://support.mozilla.org/en-US/questions/990955 "My Firefox does not start. I have already tried upgrading, still the problem persists. The Icon is there, but nothing happens when I press it."), 
-1. **Thu Mar 20 2014 07:03 PM** [comment avoir la versionen francais du canada et comment faire pour accelerer ma navigation qui est tres lente svp merci](https://support.mozilla.org/en-US/questions/990961 "j aimerais que tout sois en francais est ce possible ? et ou puis je telecharger des application ex: de yoga en francais sans devoir aller sur google play svp"), 
-1. **Thu Mar 20 2014 08:03 PM** [Opening files from  Firefox Downloads.](https://support.mozilla.org/en-US/questions/990970 "Cannot open a file from downloads. Why is  the Firefox downloads not listed in the android device downloads, are they separate?"), 
+1. **Thu Mar 20 2014 03:03 PM** [What and y does my play store keep asking me for a P12 extention.This file is not found in my phone.Can you help by just fixing the issue?](https://support.mozilla.org/en-US/questions/990914 "Please help me with this P12"), p12, certficate
+1. **Thu Mar 20 2014 07:03 PM** [Mozilla Firefox wont start](https://support.mozilla.org/en-US/questions/990955 "My Firefox does not start. I have already tried upgrading, still the problem persists. The Icon is there, but nothing happens when I press it."), install, crash
+1. **Thu Mar 20 2014 07:03 PM** [comment avoir la versionen francais du canada et comment faire pour accelerer ma navigation qui est tres lente svp merci](https://support.mozilla.org/en-US/questions/990961 "j aimerais que tout sois en francais est ce possible ? et ou puis je telecharger des application ex: de yoga en francais sans devoir aller sur google play svp"), fr-ca, localization, fr-calocalization
+1. **Thu Mar 20 2014 08:03 PM** [Opening files from  Firefox Downloads.](https://support.mozilla.org/en-US/questions/990970 "Cannot open a file from downloads. Why is  the Firefox downloads not listed in the android device downloads, are they separate?"), download, detailsmissing
 1. **Thu Mar 20 2014 08:03 PM** [Can't find my bookmarks.](https://support.mozilla.org/en-US/questions/990972 "Poopy"), 
-1. **Thu Mar 20 2014 11:03 PM** [How do I get an answer to a simple question??](https://support.mozilla.org/en-US/questions/991002 "I am fed up with this phone I can't wait to get back to an apple phone as soon as the new one comes out"), 
-1. **Thu Mar 20 2014 11:03 PM** [Can I fix a corrupt profile?](https://support.mozilla.org/en-US/questions/991007 "When I try and start firefox it shows the computer is thinking but then nothing happens. I tried restarting, safe mode, reinstalling. After reading up I found its probably a corrupt file, so I logged onto my computer's guest profile and it worked on there. Is there anyway to get it to work on my original profile? It would be really inconvienient to have to start a new profile for this"), 
-1. **Fri Mar 21 2014 01:03 AM** [I will to change my phone number](https://support.mozilla.org/en-US/questions/991027 "I will like to change my phone number because i have new cell phone also to update my file"), 
-1. **Fri Mar 21 2014 02:03 AM** [How do I delete my top sites](https://support.mozilla.org/en-US/questions/991032 "I want to delete my top sites but have tried everything need help"), 
-1. **Fri Mar 21 2014 04:03 AM** [How do I share download link??](https://support.mozilla.org/en-US/questions/991041 "Initial version was able to share download(Video) link to  different download manager. But now I can't do the same. Firefox's default download manager downloads the file."), 
-1. **Fri Mar 21 2014 04:03 AM** [Android Firefox won't open files with my app if a mime-type intent-filter is specified](https://support.mozilla.org/en-US/questions/991044 "I'm writing an app that opens music notation files. In my app I specify this data-entry intent-filter which allows downloaded files from the Chrome or Android browsers to open the file with my app:"), 
+1. **Thu Mar 20 2014 11:03 PM** [How do I get an answer to a simple question??](https://support.mozilla.org/en-US/questions/991002 "I am fed up with this phone I can't wait to get back to an apple phone as soon as the new one comes out"), questiondeleted
+1. **Thu Mar 20 2014 11:03 PM** [Can I fix a corrupt profile?](https://support.mozilla.org/en-US/questions/991007 "When I try and start firefox it shows the computer is thinking but then nothing happens. I tried restarting, safe mode, reinstalling. After reading up I found its probably a corrupt file, so I logged onto my computer's guest profile and it worked on there. Is there anyway to get it to work on my original profile? It would be really inconvienient to have to start a new profile for this"), desktopquestion
+1. **Fri Mar 21 2014 01:03 AM** [I will to change my phone number](https://support.mozilla.org/en-US/questions/991027 "I will like to change my phone number because i have new cell phone also to update my file"), questiondeleted
+1. **Fri Mar 21 2014 02:03 AM** [How do I delete my top sites](https://support.mozilla.org/en-US/questions/991032 "I want to delete my top sites but have tried everything need help"), topsites, deletetopsites
+1. **Fri Mar 21 2014 04:03 AM** [How do I share download link??](https://support.mozilla.org/en-US/questions/991041 "Initial version was able to share download(Video) link to  different download manager. But now I can't do the same. Firefox's default download manager downloads the file."), questiondeleted
+1. **Fri Mar 21 2014 04:03 AM** [Android Firefox won't open files with my app if a mime-type intent-filter is specified](https://support.mozilla.org/en-US/questions/991044 "I'm writing an app that opens music notation files. In my app I specify this data-entry intent-filter which allows downloaded files from the Chrome or Android browsers to open the file with my app:"), developerquestion, androidintent
 1. **Fri Mar 21 2014 06:03 AM** [Crash problem](https://support.mozilla.org/en-US/questions/991050 "Hello, I keep trying to open my browser and all I get are the Mozilla Crash Reporter. I can't get online to download or update a new version or browser so my work computer is now useless. Please advise as soon as possible.
 Danielle Mercado
-xxx-xxx-xxxx"), 
+xxx-xxx-xxxx"), crash
 1. **Fri Mar 21 2014 07:03 AM** [Can't sign in to new sync](https://support.mozilla.org/en-US/questions/991057 "I have created a new Sync account on my desktop, and can sync, and can log in to"), 
 1. **Fri Mar 21 2014 11:03 AM** [comment faire pour que Firefox telecharge les fichiers dans la ExtSdCard (mémoire externre) et non dans la SdCard0(mémoire interne) dans mon téléphone Android?](https://support.mozilla.org/en-US/questions/991078 "comment faire pour que Firefox telecharge les fichiers dans la ExtSdCard (mémoire externre) et non dans la SdCard0(mémoire interne) dans mon téléphone Android? Car, j'ai oublié de préciser que la mémoire externe de mon téléphone Samsung est ExtSdCard et que la mémoire interne s' appelle SdCard0 dans ma question d'avant.  Alors comment faire pour que les fichiers telecharger par firefox soient directement telechargés dans la mémoire externe ExtSdCard de mon téléphone Samsung Android qui a une microsd. Merci"), 
 1. **Fri Mar 21 2014 09:03 PM** [how do you log into. your fb acct when you don't have a email or phone number registerd to recieve different passwords](https://support.mozilla.org/en-US/questions/991175 "I registerd with my phone number so that was my username and now for some reason my phone number dissappeard now i have no way for fb to send me new passwords"), 
