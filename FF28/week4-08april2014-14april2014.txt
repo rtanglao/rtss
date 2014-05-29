@@ -1,0 +1,38 @@
+994904 slownessdetaismissing
+994875 crash detailsmissing
+994673 xperiaz2 connectivity
+994669 offtopic
+994625 offtopic
+994477 detailsmissing sync menulocation
+994435 dupe
+994383 webcompat lsm.org detailsmissing
+994334 uninstall detailsmissing
+994127 ceoq12014
+994909 accounts firefoxaccountversussumoaccount sumoaccount
+994894 offtopic
+994884 ceoq12014
+994873 lockrotation
+994851 restorebookmarks bookmarks 
+994815 topsites disabletopsites fixed29
+994777 video warnerarchiveinstant webcompat
+994765 plugin pluginproblem addonproblem
+994672 proxy notafirefoxproblem
+994670 sync detailsmissing activation syncactivation
+994548 facebook autofill
+994488 fvdspeeddial addonproblem fvdspeeddialproblem
+994468 bookmarks awesomescreen keyboard longtap
+994384 share contextshare detailsmissing
+994349 sopra webcompat
+994342 ceoq12014
+994321 menulocation 
+994288 lgg2 video_codecs video fileabug
+994238 menulocation menu
+994202 socialapi developerquestion
+994167 homepage sethomepage
+994143 roboto systemfont fonts	
+994106 bookmarks detailsmissings
+994103 desktopquestion
+994099 walmart webcomat slideshow detailsmissing	
+994059 limits bookmarkslimits bookmarks
+994005 webgl developerquestion
+993944 sync detailsmising
