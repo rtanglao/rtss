@@ -1,0 +1,63 @@
+992595 sync recoverykey
+992568 plugins detailsmissing
+992450 offtopic
+992372 homebutton
+992347 questiondeleted
+992290 sync recoverykey
+992199 webcompat seadrill.com
+992120 downloads opendownloadedfile
+991970 bug990473 keyboard
+991777 history deletehistory
+992610 questiondeleted
+991983 questiondeleted
+992734 keyboard bug990314
+992717 gmail notafirefoxproblem
+992715 questiondeleted 
+992713 emoji keyboard facebook facebookemoji webcompat
+992689 preferences
+992645 dupe
+992644 sync syncbetatorelease
+992598 lgg2 detailsmissing video flash video_codecs
+992553 galaxys4 notafirefoxproblem
+992538 homepage sethomepage
+992494 candycrush webcompat detailsmissing
+992483 downloadwebpage
+992466 detailsmissing
+992440 dupe
+992410 flashvideodownloader notafirefoxproblem
+992374 questiondeleted
+992373 offtopic
+992332 questiondeleted
+992325 detailsmissing javascript
+992319 detailsmissing
+992299 galaxytab3 slowness detailsmissing
+992251 notafirefoxquestion thunderbird offtopic
+992197 mozillachinafirefox mozillachina
+992172 searchenginges deletesearchinges fixed29
+992165 storedpasswords showpasswords passwords
+992157 androidtodesktopsync sync pairing
+992152 bookmarks bookmarksfolders folders
+992123 enterprisequestion whitelist
+992087 mobilepasswordmanagerproblem notafirefoxproblem addonproblem mobilepasswordmanager
+992073 proxybrowser notafirefoxproblem
+992048 galaxytab3 cimplicity webcompat java
+992022 dupe
+992021 devicecompat
+992012 questiondeleted
+991984 notafirefoxproblem flash
+991974 video_codecs detailsmissing acera500
+991919 cookie webcompat
+991875 defaultbrowser
+991862 detailsmissing
+991795 questiondeleted
+991769 desktopquestion firewall
+991761 sync detailsmissing
+991737 questiondeleted
+991714 bookmarks importbookmarks sync syncbookmarks galaxys3
+991708 homepage sethomepage
+991697 questiondeleted
+991696 xperiaz1 xperiaz1compact keyboard
+991691 facebook privatebrowing nexus7 nexus72012
+991671 devcompat windowsphone
+991668 questiondeleted
+991659 androidsearchbar
