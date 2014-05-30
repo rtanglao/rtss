@@ -1,26 +1,26 @@
-996789
-996843
-996462
-996432
-996841
-996835
-996813
-996773
-996769
-996751
-996740
-996700
-996699
-996691
-996679
-996660
-996603
-996596
-996584
-996514
-996508
-996481
-996467
-996454
-996417
-996381
+996789 video_codecs webcompat flash video xvideos.com
+996843 detailsmissing
+996462 history clearhistory
+996432 blackberry z10 devicecompat
+996841 webapp developerquestion
+996835 sync sendtabtodevices fixed29.0.1
+996813 flash flashdoesntworkonintel notafirefoxproblem
+996773 tabs closetabsui ui_issues
+996769 hola.org webcompat notafirefoxproblem
+996751 sync sendtabtodevices fixed29.0.1
+996740 homepage sethomepage homechanger
+996700 ddotomen.com webcompat
+996699 javascript detailsmissing
+996691 lockorientation
+996679 anonymox anonymoxaddon addonproblem addoncompat
+996660 recoversettings backupsettings backup backupdata
+996603 ui_issues closetabui tabs quickgestures 
+996596 bookmarks syncdataloss dataloss sync
+996584 webcompat detailsmissing
+996514 closealltabs tabs ui_issues
+996508 probablynotafirefoxproblem
+996481 potfarm webcompat
+996467 desktopquestion
+996454 history clearhistory
+996417 android4.1 devicecompat
+996381 searchbar opacity searchbaropacity
