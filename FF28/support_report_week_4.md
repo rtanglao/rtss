@@ -1,6 +1,6 @@
 #SUMO Forum Support Report  2014/04/08-2014/04/14
 ##Tag Summary
-1. detailsmissing:7
+1. detailsmissing:9
 1. bookmarks:4
 1. webcompat:3
 1. ceoq12014:3
@@ -15,7 +15,7 @@
 1. [i browse facebook on their mobile website at https://m.facebook.com/ when i comment on someone else's post, firefox saves the text for my comment. now when i try to comment on a friend's post, firefox drops down a list which shows every comment that i have made (the list is close to 100](https://support.mozilla.org/en-US/questions/994548)
 
 ##Details
-1. **Tue Apr 08 2014 01:04 AM** [Firefox Sync is not syncing my desktop to my Android Phone.](https://support.mozilla.org/en-US/questions/993944 "I have signed into Mozilla on my desktop and on my Android Phone. On both devices Firefox is my default browser and both use the Beta 29.0 Firefox to utilize the new Sync. Is there a delay in the syncing process or what? I am unsure as to how this works and am simply becoming frustrated with the effort it is taking to get this done. Does anyone have an idea as to why they aren't syncing?"), sync, detailsmising
+1. **Tue Apr 08 2014 01:04 AM** [Firefox Sync is not syncing my desktop to my Android Phone.](https://support.mozilla.org/en-US/questions/993944 "I have signed into Mozilla on my desktop and on my Android Phone. On both devices Firefox is my default browser and both use the Beta 29.0 Firefox to utilize the new Sync. Is there a delay in the syncing process or what? I am unsure as to how this works and am simply becoming frustrated with the effort it is taking to get this done. Does anyone have an idea as to why they aren't syncing?"), sync, detailsmissing
 1. **Tue Apr 08 2014 11:04 AM** [Is it possible to render pages for use within a Graphoc (OpenGL) environment to create 'textures' of any web page? Thanks.](https://support.mozilla.org/en-US/questions/994005 "In my app - on Android (Java) and iPhone (Objective-C) - I have an OpenGL Graphics context where I'd like to display any web page on a 'sign' or 'virtual screen'.
 Are there libraries which I could plug in to to render pages as a texture for use with OpenGL 'objects'?"), webgl, developerquestion
 1. **Tue Apr 08 2014 05:04 PM** [What is the maximum amount of bookmarks you can save?](https://support.mozilla.org/en-US/questions/994059 "What is the maximum amount of bookmarks? Can you create files to sort bookmarks?"), limits, bookmarkslimits, bookmarks
@@ -55,5 +55,5 @@ Can this be done with Firefox android mobile phone? (Appt or something)"), lockr
 1. **Sun Apr 13 2014 10:04 PM** [why if I play  games online, I exit firefox continues](https://support.mozilla.org/en-US/questions/994875 "When I play games online all of a sudden I was out of firefox"), crash, detailsmissing
 1. **Mon Apr 14 2014 12:04 AM** [Why did you push out your CEO for his political and religious beliefs?](https://support.mozilla.org/en-US/questions/994884 "It's sad that you chose to push out a CEO for his personal belief.  What happened to freedom?  I have happily deleted you from my devices and will continue to encourage others to do the same.  Shame on you!"), ceoq12014
 1. **Mon Apr 14 2014 02:04 AM** [Portable  Batterie Pour Dell Alienware M17x](https://support.mozilla.org/en-US/questions/994894 "Bonjour tout le monde,"), offtopic
-1. **Mon Apr 14 2014 05:04 AM** [why its running so slow](https://support.mozilla.org/en-US/questions/994904 "Takes so long to load anything"), slownessdetaismissing
+1. **Mon Apr 14 2014 05:04 AM** [why its running so slow](https://support.mozilla.org/en-US/questions/994904 "Takes so long to load anything"), slowness, detailsmissing
 1. **Mon Apr 14 2014 06:04 AM** [Different accounts of this app](https://support.mozilla.org/en-US/questions/994909 "What is the differance  bitwin Ask a question support account and the other accounts on this app ?"), accounts, firefoxaccountversussumoaccount, sumoaccount
