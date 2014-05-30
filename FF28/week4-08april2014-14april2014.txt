@@ -1,4 +1,4 @@
-994904 slownessdetaismissing
+994904 slowness detailsmissing
 994875 crash detailsmissing
 994673 xperiaz2 connectivity
 994669 offtopic
@@ -35,4 +35,4 @@
 994099 walmart webcomat slideshow detailsmissing	
 994059 limits bookmarkslimits bookmarks
 994005 webgl developerquestion
-993944 sync detailsmising
+993944 sync detailsmissing
