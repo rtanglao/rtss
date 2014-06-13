@@ -1,0 +1,5 @@
+1005725 webcompat detailsmissing
+1005724 windowsauthentication tablet authentication
+1005710 sync syncdesktoptoandroid
+1005697 popup portuguese
+1005691 sync passwords passwordssync
