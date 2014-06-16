@@ -1,0 +1,22 @@
+1006074 dupe
+1006057 offtopic
+1006134 clearpassword password
+1006099 offtopic deletemusic
+1006284 flash flashplayer notafirefoxproblem
+1006248 history deletehistory
+1006251 8sms defaultsmsapp defaultmessagingapp probablynotafirefoxproblem
+1006247 menulocation menu ui_issues  GalaxyNote10.1-2014 galaxynote10.1
+1006175 questiondeleted
+1006178 downloads renamedownloads
+1006174 dns vpn bug947801 bug939318
+1006172 ftpserveroutage serveroutage outage
+1006171 mozillians.org offtopic
+1006118 addonproblem notafirefoxproblem tabs
+1006073 detailsmissing sync syncandroidtodesktop
+1006067 sync syncdocss
+1006058 sync bookmarks bookmarkssync detailsmissing
+1005968 popups blockpopups
+1005963 universetoday adventvega notafirefoxproblem
+1005957 x86
+1005931 galays4 i9505 android4.4.2 flash webcompat 
+1005926 victoriasecret webcompat probablynotafirefoxproblem
