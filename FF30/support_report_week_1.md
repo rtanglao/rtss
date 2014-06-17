@@ -1,10 +1,10 @@
 #SUMO Forum Support Report  2014/06/10-2014/06/16
 ##Tag Summary
-1. sync:7
+1. sync:8
 1. webcompat:4
+1. detailsmissing:4
 1. offtopic:4
 1. notafirefoxproblem:4
-1. detailsmissing:3
 1. probablynotafirefoxproblem:2
 1. flash:2
 1. tablet:2
@@ -54,3 +54,5 @@ for browsing through vpn"), dns, vpn, bug947801, bug939318
 1. **Sat Jun 14 2014 10:06 PM** [How do I change the default email app Firefox for Android uses?](https://support.mozilla.org/en-US/questions/1006251 "I'm using 8SMS as my default messaging app. When I try to share a link, Firefox gives me an error saying that messaging isn't my default app so it can't compose the SMS. Is there a place to change which app Firefox looks for when composing SMS messages?"), 8sms, defaultsmsapp, defaultmessagingapp, probablynotafirefoxproblem
 1. **Sat Jun 14 2014 10:06 PM** [how to delete history from web?](https://support.mozilla.org/en-US/questions/1006248 "When typing in info, such as, Google, B of A, or wherever I wish to go, I can't delete the history to where I've been, Please help."), history, deletehistory
 1. **Sun Jun 15 2014 03:06 AM** [What kind of Flash Player can i download for Firefox.? What kind of video player can I use to stream videos.](https://support.mozilla.org/en-US/questions/1006284 "Flash player for streaming? Best video player."), flash, flashplayer, notafirefoxproblem
+1. **Mon Jun 16 2014 01:06 AM** [How do I open YouTube that I just enabled as add on?](https://support.mozilla.org/en-US/questions/1006407 "I have a HTC one sv"), youtube, add-onproblem, detailsmissing
+1. **Mon Jun 16 2014 04:06 AM** [How can I «sync» Firefox 30 on android 4.2.2](https://support.mozilla.org/en-US/questions/1006417 "I had a «deprecated» sync account on an android phone (and on a linux lap as well). Then I bought a new android phone which asked me to create a new account. This is the moment I learned there was a new «method». So I googled how to do the transition, but FF simply keeps crashing every time I try to sync. I guess that it has to do with 4.2.2 (thl T11) because it crashes over and over regardless of the «account» (two of which I created and verified ex professo). I can smoothly sync with other computers."), sync, android4.2.2, jellybean, thlt11
