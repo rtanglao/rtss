@@ -1,0 +1,47 @@
+1002445 deletescreen detailsmissing galaxytab3lite
+1002279 offtopic
+1003067 questiondeleted
+1003004 landscape portuguesequestion
+1002973 devicecompat
+1002963 devicecompat tizen sailfish bb10 ubuntutouch
+1002924 sync syncafterresintall
+1002921 sync syncafterresintall detailsmissing
+1002887 sync syncdesktoptoandroid
+1002885 crash fixed30 fixed31 fixed32
+1002757 download detailsmissing
+1002703 sync androidtodesktopsync
+1002700 geckoview
+1002688 clearprivatedataonexit clearprivatedata privatedata
+1002672 offtopic mozillamission
+1002671 kissmanga dns proxy
+1002614 facebook notafirefoproblem
+1002624 firefoxversion
+1002620 diskspace
+1002558 firefoxversion
+1002554 dupe
+1002429 randomads ads detailsmissing
+1002485 spotify praise
+1002482 sync desktoptoandroidsync
+1002476 bookmarks sync syncbookmarks synctabs tabs
+1002469 tabpro frenchquestion
+1002457 parentalconsent parentalcontrols
+1002458 thaiquestion offtopic
+1002455 autofill formautofill turnoffautofill
+1002451 offtopic
+1002439 microphone voiceinput keyboard
+1002436 sync changeemail
+1002408 detailsmissing desktopquestion
+1002406 plugin thaiquestion detailsmissing
+1002396 craigslist email notafirefoxproblem
+1002373 downloaddirectory downloads
+1001462 detailsmissing
+1002351 britishenglish canadiannglish nonusaenglish localeswitching notafirefoxproblem
+1002282 speechtotext speech featurerequest webspeechapi webspeech
+1002276 cache sdcard storetosdcard
+1002261 hotmail detailsmissing probablynotafirefoxproblem
+1002253 webcompat yahoo.co.jp
+1002150 sync syncdesktoptoandroid
+1002198 speedialproblem speeddial addonproblem notafirefoxproblem
+1002196 popup
+1002118 proxymob addons addonsproblem
+1002079 sdcard download downloadfolder
