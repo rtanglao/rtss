@@ -18,8 +18,8 @@
 1. syncsetup:5
 1. syncandroidtodesktop:4
 1. install:4
-1. addonsproblem:4
 1. oldsync:4
+1. windowsphone:4
 
 ##Verbatims
 1. [the settings pane shows sync is enabled. no option is visible to 'disconnect' like in desktop version.](https://support.mozilla.org/en-US/questions/998071)
