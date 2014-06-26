@@ -9,7 +9,6 @@
 1. ui_issues:9
 1. syncdesktoptoandroid:8
 1. tabs:8
-1. addons:7
 1. downloads:7
 1. sdcard:6
 1. jellybean:6
@@ -19,7 +18,8 @@
 1. syncandroidtodesktop:4
 1. install:4
 1. oldsync:4
-1. windowsphone:4
+1. video_codecs:4
+1. 4.4kitkat:4
 
 ##Verbatims
 1. [the settings pane shows sync is enabled. no option is visible to 'disconnect' like in desktop version.](https://support.mozilla.org/en-US/questions/998071)
