@@ -62,6 +62,10 @@ def get_top_tags(start_date, end_date):
   del tags_hash["addonsproblem"]
   del tags_hash["windowsphone"]
   del tags_hash["addons"]
+  del tags_hash["jellybean"]
+  del tags_hash["kitkat"]
+  del tags_hash["4.4kitkat"]
+
 
   sorted_array_of_tuples = sorted(tags_hash.items(), key=lambda tag:tag[1])
   sorted_array_of_tuples.reverse()
