@@ -1,59 +1,59 @@
-1003668
-1004082
-1003943
-1003718
-1003674
-1003599
-1003592
-1004077
-1004061
-1004057
-1004055
-1004048
-1004047
-1004172
-1004163
-1004130
-1004127
-1004119
-1004116
-1004115
-1004109
-1004081
-1004026
-1004000
-1003983
-1003968
-1003949
-1003926
-1003896
-1003881
-1003830
-1003811
-1003810
-1003805
-1003775
-1003766
-1003737
-1003729
-1003723
-1003710
-1003601
-1003656
-1003632
-1003619
-1003616
-1003577
-1003538
-1003529
-1003460
-1003458
-1003439
-1003402
-1003382
-1003381
-1003374
-1003339
-1003336
-1003262
-1003219
+1003668 nexus5 batterydrain
+1004082 offtopic
+1003943 slowness
+1003718 offtopic
+1003674 urlbaratbottom urlbar
+1003599 firefoxinvietnamese localizedfirefox
+1003592 offtopic
+1004077 devicecompat galaxys3
+1004061 wheresmyfoxfeaturerequest wheresmyfox
+1004057 detailsmissing
+1004055 history deletehistory
+1004048 dataloss updatedataloss update
+1004047 youtube webcompat flash
+1004172 search voicesearch
+1004163 devicecompat windowsphone
+1004130 javascript
+1004127 dupe
+1004119 sync updatetonewsync
+1004116 offtopic
+1004115 dupe
+1004109 devicecompat symbian
+1004081 offtopic
+1004026 autocomplete fixed32 keyboard samsungkeyboard
+1004000 sync wrongemailaddress syncwrongemailaddress
+1003983 install
+1003968 notafirefoxproblem
+1003949 sync desktoptoandroidsync
+1003926 detailsmissing webcompat
+1003896 caixa.gov.br webcompat notafirefoxproblem
+1003881 desktopquestion
+1003830 flashvideodownloader addon adonquestion
+1003811 sync desktoptoandroidsync
+1003810 sync desktoptoandroidsync
+1003805 galaxy3 bookmarksdisappearing bookmarks homescreen
+1003775 trovisearchengine trove removetrovi desktopquestion
+1003766 galaxynote3 kitkat 4.4kitkat flash crash detailsmissing
+1003737 passwords autofillpasswords autofill
+1003729 sync desktoptoandroidsync
+1003723 bookmarks bookmarksfolders bug972193
+1003710 menumissing bug1030113
+1003601 devicecompat
+1003656 versionhistory version
+1003632 freeze detailsmissing
+1003619 cleanupdownloads downloads sdcard
+1003616 history deletehistory clearprivatedata deletecache ui_issues
+1003577 downloads downloadsdirectory sdcard developerquestion
+1003538 sync syncnotworking syncverification
+1003529 sync androidtodesktopsync desktoptoandroidsync
+1003460 sync syncnotworking syncverification
+1003458 droidrazrhd dataloss bookmarks bookmarksdataloss crash
+1003439 nookhd blip.tv redlettermedia.com video_codes flash bug935472 webcompat
+1003402 desktopquestion
+1003382 zoom rememberzoomlevel zoomlevel pinchtozoom taptozoom
+1003381 bookmarks syncbookmarks sync syncandroidtoandroid
+1003374 detailsmissing pin pinnumber
+1003339 importbookmarks importfromgoogle importfromdefaultbrowser import
+1003336 sync androidtoandroidsync galaxynotemobile
+1003262 dropdown webcompat notafirefoxproblem
+1003219 battery batterydrain htcincredible2 flash detailsmissing
