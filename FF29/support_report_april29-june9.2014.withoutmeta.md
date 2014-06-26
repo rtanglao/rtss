@@ -2,12 +2,10 @@
 ##Tag Summary
 1. sync:65
 1. history:18
-1. devicecompat:17
 1. deletehistory:16
 1. webcompat:15
 1. flash:15
 1. bookmarks:14
-1. desktopquestion:9
 1. ui_issues:9
 1. syncdesktoptoandroid:8
 1. tabs:8
@@ -18,8 +16,10 @@
 1. crash:6
 1. desktoptoandroidsync:6
 1. syncsetup:5
-1. developerquestion:4
 1. syncandroidtodesktop:4
+1. install:4
+1. addonsproblem:4
+1. oldsync:4
 
 ##Verbatims
 1. [the settings pane shows sync is enabled. no option is visible to 'disconnect' like in desktop version.](https://support.mozilla.org/en-US/questions/998071)
