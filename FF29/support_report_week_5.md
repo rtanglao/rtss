@@ -12,6 +12,8 @@
 1. notafirefoxproblem:3
 
 ##Verbatims
+1. [is firefox causing heavy battery drain & crash?](https://support.mozilla.org/en-US/questions/1003219)
+1. [feature: are bookmark folders on the roadmap?](https://support.mozilla.org/en-US/questions/1003723)
 
 ##Details
 1. **Tue May 27 2014 12:05 AM** [Is Firefox causing heavy battery drain  & crash?](https://support.mozilla.org/en-US/questions/1003219 "I installed FireFox on myHTC Incredible2. I still have Opera & the default browser. FireFox is great, the others crash at a lot of the sports urls particularly links wouldn't last. 
