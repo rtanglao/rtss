@@ -9,4 +9,4 @@
 1012059 dupe
 1012052 allowpopups popups
 1011971 download downloadtosdcard sdcard
-1011959 awesom
+1011959 firefoxhub awesomescreen bookmarks topsite ui_issues
