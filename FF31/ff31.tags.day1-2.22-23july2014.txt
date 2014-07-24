@@ -1,17 +1,17 @@
-1011843
-1011928
-1011929
-1011926
-1011920
-1011875
-1011855
-1011836
-1011829
-1011810
-1011807
-1011808
-1011799
-1011787
-1011753
-1011751
-1011396
+1011843 indonesian offtopic
+1011928 firefoxaccounts firefoxaccountspassword password detailmissing
+1011929 keyboard c-dac gistmarathi indian indiankeyboard
+1011926 detailsmissing galaxys5 probablynotafirefoxproblem
+1011920 download aspxinsteadofpdf aspx pdf
+1011875 offtopic
+1011855 praise
+1011836 bookmarks spam offtopic
+1011829 privatebrowsing privatebrowsingux ui_issues
+1011810 2.3 2.3gingerbread gingerbread motorolaxt389
+1011807 dupe
+1011808 sync changesyncemailaddress firefoxaccounts changefirefoxaccountsemailaddress
+1011799 bookmarks ui_issues firefoxhub bookmarksasdefault
+1011787 history deletehistory
+1011753 cookies detailsmissing turnoncookies
+1011751 history deletehistory
+1011396 desktopquestion portuguese
