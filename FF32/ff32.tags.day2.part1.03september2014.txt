@@ -1,0 +1,6 @@
+1018129
+1018123 dupe
+1018122 detailsmissing transparent
+1018119 chess.com webcompat notepro notepro12.2
+1018110 detailsmissing 909 error909
+1018100 icon iconshowingfirefoxlogo homescreen homescreenicons
