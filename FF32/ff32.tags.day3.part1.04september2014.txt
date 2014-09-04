@@ -1,0 +1,3 @@
+1018298 nextbook7 sync detailsmissing
+1018288 galaxytab4 devicecompat
+1018280 webcompat futureshop.ca
